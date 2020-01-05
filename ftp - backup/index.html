@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Reconocedor de tickets</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">                
+    </head>
+    <body>
+
+
+        <div class="container">
+            <h1>Subir imagen</h1>
+            <form onsubmit="return false" enctype="multipart/form-data">
+                <input type="file" class="form-control-file" accept="image/*" name="img" id="fileinput" ><br>
+                <!-- <input type="submit" class="btn btn-primary" value="Reconocer"> -->
+                <button id="btnUpload" class="btn btn-primary">Reconocer</button>
+            </form>
+
+            <div id="loader" class="d-none spinner-border text-primary" role="status">
+                <span class="sr-only">Cargando...</span>
+            </div>
+            
+            <table class="table d-none">
+                <thead>
+                    <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Categoría</th>
+                    <th scope="col">Probabilidad</th>
+                    </tr>
+                </thead>
+                <tbody>                      
+                </tbody>
+            </table>            
+            <br>
+            <button class="btn btn-secondary" onclick="window.location.reload()">Volver a hacer</button>
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+        <script>
+        
+        const apiURL = window.location.href;
+        
+        $('#btnUpload').on('click',function(){
+            
+            $('form').addClass('d-none');
+            $('#loader').removeClass("d-none");
+            
+            var data = new FormData();
+            const input = document.getElementById('fileinput');
+            data.append('img',input.files[0]);
+
+            sendFile(data);
+
+        });                
+        function sendFile(data)
+        {
+            fetch(apiURL + 'upload', { // Your POST endpoint
+                method: 'POST',
+                /*headers: {
+                // Content-Type may need to be completely **omitted**
+                // or you may need something
+                "Content-Type": "You will perhaps need to define a content-type here"
+                },*/
+                body: data // This is your file object
+            }).then(
+                response => response.json() // if the response is a JSON object
+            ).then(
+                success => 
+                {
+                    console.log(success) // Handle the success response object
+                    var data2 = { fileName : success.fileName};
+                    recognizeData(data2);
+                } 
+            ).catch(
+                error => console.log(error) // Handle the error response object
+            );                    
+        }
+
+        function recognizeData(data2)
+        {
+            fetch(apiURL + 'recognize', {
+                        method: 'POST',
+                        headers: {'Content-Type': 'application/json'},
+                        body:JSON.stringify(data2)
+            }).then(
+                response => response.json()
+            ).then( probabilityData => {
+                
+                console.log(probabilityData);
+                var tbody = $('tbody');
+                for (let i = 0; i < probabilityData.length; i++) {
+                    const element = probabilityData[i];
+                    const name = element.name;
+                    const label = element.label;
+                    const probability = element.value;
+                    const markup = "<tr><td>"+i+"</td><td>"+name+"</td><td>"+label+"</td><td>"+probability+"</td></tr>";
+                    tbody.append(markup);
+                }
+                $("#loader").addClass('d-none');
+                $('table').removeClass('d-none');
+
+            }).catch( error => console.log(error))
+        }
+
+        </script>
+
+    </body>
+</html>

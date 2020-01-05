@@ -1,0 +1,4911 @@
+{
+	"navigationCategories": [
+		{
+			"idCategoria": "-",
+			"displayName": "Ofertas",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_oferta",
+			"extension": ".png",
+			"url": "",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "-",
+					"displayName": "Exclusivas",
+					"url": "/browse/catalogo-ofertas/_/N-1nx2iz5?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Miembros Comunidad",
+					"url": "/browse/catalogo-ofertas/_/N-ra038j?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "2X1",
+					"url": "/browse/catalogo-ofertas/_/N-1fa3vhj?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "3X2",
+					"url": "/browse/catalogo-ofertas/_/N-1e9enqq?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "4X3 / 4X2",
+					"url": "/browse/catalogo-ofertas/_/N-1dvxi5a?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "6X5",
+					"url": "/browse/catalogo-ofertas/_/N-13bifjw?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Hasta 20% OFF!!",
+					"url": "/browse/catalogo-ofertas/_/N-yti2o3?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Hasta 30% OFF!!",
+					"url": "/browse/catalogo-ofertas/_/N-1ws727b?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Hasta 40% OFF!!",
+					"url": "/browse/catalogo-ofertas/_/N-brnoyr?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Hasta 50% OFF!!",
+					"url": "/browse/catalogo-ofertas/_/N-t6g4bw?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Hasta 60% OFF!!",
+					"url": "/browse/catalogo-ofertas/_/N-1o8rgqs?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Hasta 80% OFF!!",
+					"url": "/browse/catalogo-ofertas/_/N-1ojeydc?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Llevando 2 (Hasta 20% OFF!!)",
+					"url": "/browse/catalogo-ofertas/_/N-3fhn21?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Llevando 2 (Hasta 30% OFF!!)",
+					"url": "/browse/catalogo-ofertas/_/N-1u1uzja?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Llevando 2 (Hasta 40% OFF!!)",
+					"url": "/browse/catalogo-ofertas/_/N-r2z6e2?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Llevando 2 (Hasta 50% OFF!!)",
+					"url": "/browse/catalogo-ofertas/_/N-12rtd15?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Llevando 6 (Hasta 20% OFF!!)",
+					"url": "/browse/catalogo-ofertas/_/N-18t5aha?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Llevando 6 (Hasta 30% OFF!!)",
+					"url": "/browse/catalogo-ofertas/_/N-j52b38?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Otras Ofertas",
+					"url": "/browse/catalogo-ofertas/_/N-1vjs1dz?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "-",
+					"displayName": "Todas las Ofertas",
+					"url": "/browse/catalogo-ofertas/_/N-c7ha3p?",
+					"secondLevelCategories": []
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001254",
+			"displayName": "Almacén",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_almacen",
+			"extension": ".png",
+			"url": "/browse/catalogo-almacén/_/N-8pub5z?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00003539",
+					"displayName": "Golosinas",
+					"url": "/browse/catalogo-almacén-golosinas/_/N-1y5dh9i?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003596",
+							"displayName": "Alfajor",
+							"url": "/browse/catalogo-almacén-golosinas-alfajor/_/N-1njwjm5?"
+						},
+						{
+							"idCategoria": "catv00003597",
+							"displayName": "Bocaditos",
+							"url": "/browse/catalogo-almacén-golosinas-bocaditos/_/N-1f6lydf?"
+						},
+						{
+							"idCategoria": "catv00003598",
+							"displayName": "Bombon",
+							"url": "/browse/catalogo-almacén-golosinas-bombon/_/N-1xkf1n?"
+						},
+						{
+							"idCategoria": "catv00003599",
+							"displayName": "Caramelos",
+							"url": "/browse/catalogo-almacén-golosinas-caramelos/_/N-axoedr?"
+						},
+						{
+							"idCategoria": "catv00003600",
+							"displayName": "Chicles",
+							"url": "/browse/catalogo-almacén-golosinas-chicles/_/N-uiml5b?"
+						},
+						{
+							"idCategoria": "catv00003601",
+							"displayName": "Chocolate",
+							"url": "/browse/catalogo-almacén-golosinas-chocolate/_/N-5zuboc?"
+						},
+						{
+							"idCategoria": "catv00003602",
+							"displayName": "Chocolate con frutas secas",
+							"url": "/browse/catalogo-almacén-golosinas-chocolate-con-frutas-secas/_/N-2hpeqk?"
+						},
+						{
+							"idCategoria": "catv00003603",
+							"displayName": "Chocolate con mani",
+							"url": "/browse/catalogo-almacén-golosinas-chocolate-con-mani/_/N-fr4xxg?"
+						},
+						{
+							"idCategoria": "catv00003604",
+							"displayName": "Chocolate dkt",
+							"url": "/browse/catalogo-almacén-golosinas-chocolate-dkt/_/N-7v6k0v?"
+						},
+						{
+							"idCategoria": "catv00003605",
+							"displayName": "Chocolates con sorpresas",
+							"url": "/browse/catalogo-almacén-golosinas-chocolates-con-sorpresas/_/N-m17w3j?"
+						},
+						{
+							"idCategoria": "catv00003606",
+							"displayName": "Chupetin",
+							"url": "/browse/catalogo-almacén-golosinas-chupetin/_/N-2iq8wy?"
+						},
+						{
+							"idCategoria": "catv00003607",
+							"displayName": "Confites",
+							"url": "/browse/catalogo-almacén-golosinas-confites/_/N-1u3tsb4?"
+						},
+						{
+							"idCategoria": "catv00003608",
+							"displayName": "Conitos de chocolate",
+							"url": "/browse/catalogo-almacén-golosinas-conitos-de-chocolate/_/N-19elxcw?"
+						},
+						{
+							"idCategoria": "catv00003609",
+							"displayName": "Cubanitos",
+							"url": "/browse/catalogo-almacén-golosinas-cubanitos/_/N-o9r7x1?"
+						},
+						{
+							"idCategoria": "catv00003610",
+							"displayName": "Frutas secas bañadas",
+							"url": "/browse/catalogo-almacén-golosinas-frutas-secas-bañadas/_/N-1w284n7?"
+						},
+						{
+							"idCategoria": "catv00003612",
+							"displayName": "Gomitas",
+							"url": "/browse/catalogo-almacén-golosinas-gomitas/_/N-n3zqt1?"
+						},
+						{
+							"idCategoria": "catv00003613",
+							"displayName": "Jaleas",
+							"url": "/browse/catalogo-almacén-golosinas-jaleas/_/N-17466o1?"
+						},
+						{
+							"idCategoria": "catv00003614",
+							"displayName": "Malvaviscos",
+							"url": "/browse/catalogo-almacén-golosinas-malvaviscos/_/N-5lmgvo?"
+						},
+						{
+							"idCategoria": "catv00003615",
+							"displayName": "Mani con chocolate",
+							"url": "/browse/catalogo-almacén-golosinas-mani-con-chocolate/_/N-x7bbfl?"
+						},
+						{
+							"idCategoria": "catv00003616",
+							"displayName": "Mantecol",
+							"url": "/browse/catalogo-almacén-golosinas-mantecol/_/N-1mkfif5?"
+						},
+						{
+							"idCategoria": "catv00003617",
+							"displayName": "Mini alfajor",
+							"url": "/browse/catalogo-almacén-golosinas-mini-alfajor/_/N-1awc211?"
+						},
+						{
+							"idCategoria": "catv00003618",
+							"displayName": "Obleas bañadas",
+							"url": "/browse/catalogo-almacén-golosinas-obleas-bañadas/_/N-1bbuf6u?"
+						},
+						{
+							"idCategoria": "catv00003619",
+							"displayName": "Pastillas",
+							"url": "/browse/catalogo-almacén-golosinas-pastillas/_/N-1merh1w?"
+						},
+						{
+							"idCategoria": "catv00003620",
+							"displayName": "Postre de mani",
+							"url": "/browse/catalogo-almacén-golosinas-postre-de-mani/_/N-1q3n8gl?"
+						},
+						{
+							"idCategoria": "catv00003621",
+							"displayName": "Reposteria rellena",
+							"url": "/browse/catalogo-almacén-golosinas-reposteria-rellena/_/N-g254tj?"
+						},
+						{
+							"idCategoria": "catv00003622",
+							"displayName": "Tabletas",
+							"url": "/browse/catalogo-almacén-golosinas-tabletas/_/N-1ve7964?"
+						},
+						{
+							"idCategoria": "catv00003623",
+							"displayName": "Turron",
+							"url": "/browse/catalogo-almacén-golosinas-turron/_/N-l5kqo0?"
+						},
+						{
+							"idCategoria": "catv00004003",
+							"displayName": "Halloween",
+							"url": "/browse/catalogo-almacén-golosinas-halloween/_/N-dbaauk?"
+						},
+						{
+							"idCategoria": "catv00004068",
+							"displayName": "Golosinas navidad",
+							"url": "/browse/catalogo-almacén-golosinas-golosinas-navidad/_/N-1w3bn67?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001270",
+					"displayName": "Endulzantes",
+					"url": "/browse/catalogo-almacén-endulzantes/_/N-1rtbab6?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002784",
+							"displayName": "Azúcar",
+							"url": "/browse/catalogo-almacén-endulzantes-azúcar/_/N-1w1x9xa?"
+						},
+						{
+							"idCategoria": "catv00002785",
+							"displayName": "Edulcorante",
+							"url": "/browse/catalogo-almacén-endulzantes-edulcorante/_/N-sow8s0?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002211",
+					"displayName": "Aderezos",
+					"url": "/browse/catalogo-almacén-aderezos/_/N-rv0frc?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002212",
+							"displayName": "Mayonesas",
+							"url": "/browse/catalogo-almacén-aderezos-mayonesas/_/N-r3vqlx?"
+						},
+						{
+							"idCategoria": "catv00002213",
+							"displayName": "Mostazas",
+							"url": "/browse/catalogo-almacén-aderezos-mostazas/_/N-4dl2yh?"
+						},
+						{
+							"idCategoria": "catv00002214",
+							"displayName": "Ketchup",
+							"url": "/browse/catalogo-almacén-aderezos-ketchup/_/N-aq618b?"
+						},
+						{
+							"idCategoria": "catv00002215",
+							"displayName": "Salsas golf",
+							"url": "/browse/catalogo-almacén-aderezos-salsas-golf/_/N-faua8f?"
+						},
+						{
+							"idCategoria": "catv00002223",
+							"displayName": "Aderezo caesar",
+							"url": "/browse/catalogo-almacén-aderezos-aderezo-caesar/_/N-1a61m8f?"
+						},
+						{
+							"idCategoria": "catv00002224",
+							"displayName": "Aderezo de soja",
+							"url": "/browse/catalogo-almacén-aderezos-aderezo-de-soja/_/N-1on4284?"
+						},
+						{
+							"idCategoria": "catv00002740",
+							"displayName": "Aderezo yogur",
+							"url": "/browse/catalogo-almacén-aderezos-aderezo-yogur/_/N-1a4s3es?"
+						},
+						{
+							"idCategoria": "catv00002741",
+							"displayName": "Aderezo dkt",
+							"url": "/browse/catalogo-almacén-aderezos-aderezo-dkt/_/N-v7b4rt?"
+						},
+						{
+							"idCategoria": "catv00002742",
+							"displayName": "Barbacoa",
+							"url": "/browse/catalogo-almacén-aderezos-barbacoa/_/N-k8dtu8?"
+						},
+						{
+							"idCategoria": "catv00002743",
+							"displayName": "Chimichurri",
+							"url": "/browse/catalogo-almacén-aderezos-chimichurri/_/N-1npekns?"
+						},
+						{
+							"idCategoria": "catv00002744",
+							"displayName": "Rabano",
+							"url": "/browse/catalogo-almacén-aderezos-rabano/_/N-rtb70e?"
+						},
+						{
+							"idCategoria": "catv00002745",
+							"displayName": "Salsa inglesa",
+							"url": "/browse/catalogo-almacén-aderezos-salsa-inglesa/_/N-1252y2g?"
+						},
+						{
+							"idCategoria": "catv00002746",
+							"displayName": "Tabasco",
+							"url": "/browse/catalogo-almacén-aderezos-tabasco/_/N-hyyi9b?"
+						},
+						{
+							"idCategoria": "catv00002747",
+							"displayName": "Condimentos saborizantes",
+							"url": "/browse/catalogo-almacén-aderezos-condimentos-saborizantes/_/N-3w4jy?"
+						},
+						{
+							"idCategoria": "catv00002812",
+							"displayName": "Quesos",
+							"url": "/browse/catalogo-almacén-aderezos-quesos/_/N-1m7sz02?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001275",
+					"displayName": "Infusiones",
+					"url": "/browse/catalogo-almacén-infusiones/_/N-dw58vw?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001416",
+							"displayName": "Mate",
+							"url": "/browse/catalogo-almacén-infusiones-mate/_/N-vra9dh?"
+						},
+						{
+							"idCategoria": "catv00001415",
+							"displayName": "Té",
+							"url": "/browse/catalogo-almacén-infusiones-té/_/N-vtu7ep?"
+						},
+						{
+							"idCategoria": "catv00001420",
+							"displayName": "Café",
+							"url": "/browse/catalogo-almacén-infusiones-café/_/N-1cgicr5?"
+						},
+						{
+							"idCategoria": "catv00001417",
+							"displayName": "Mate cocido",
+							"url": "/browse/catalogo-almacén-infusiones-mate-cocido/_/N-12sv9y0?"
+						},
+						{
+							"idCategoria": "catv00002888",
+							"displayName": "Complementos para infusiones",
+							"url": "/browse/catalogo-almacén-infusiones-complementos-para-infusiones/_/N-1qb24hy?"
+						},
+						{
+							"idCategoria": "catv00002889",
+							"displayName": "Filtros de papel",
+							"url": "/browse/catalogo-almacén-infusiones-filtros-de-papel/_/N-o5qxlq?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001266",
+					"displayName": "Conservas",
+					"url": "/browse/catalogo-almacén-conservas/_/N-1t4efca?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001400",
+							"displayName": "Conservas vegetal",
+							"url": "/browse/catalogo-almacén-conservas-conservas-vegetal/_/N-1eywm6f?"
+						},
+						{
+							"idCategoria": "catv00001401",
+							"displayName": "Conservas de pescado",
+							"url": "/browse/catalogo-almacén-conservas-conservas-de-pescado/_/N-17wcrsq?"
+						},
+						{
+							"idCategoria": "catv00001399",
+							"displayName": "Conservas de frutas",
+							"url": "/browse/catalogo-almacén-conservas-conservas-de-frutas/_/N-13arqj7?"
+						},
+						{
+							"idCategoria": "catv00001403",
+							"displayName": "Conservas de carne",
+							"url": "/browse/catalogo-almacén-conservas-conservas-de-carne/_/N-1aa25uw?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001267",
+					"displayName": "Encurtidos",
+					"url": "/browse/catalogo-almacén-encurtidos/_/N-12rkdi1?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002860",
+							"displayName": "Aceitunas",
+							"url": "/browse/catalogo-almacén-encurtidos-aceitunas/_/N-kikopr?"
+						},
+						{
+							"idCategoria": "catv00002861",
+							"displayName": "Ají",
+							"url": "/browse/catalogo-almacén-encurtidos-ají/_/N-18099ns?"
+						},
+						{
+							"idCategoria": "catv00002862",
+							"displayName": "Alcaparras",
+							"url": "/browse/catalogo-almacén-encurtidos-alcaparras/_/N-158qwuq?"
+						},
+						{
+							"idCategoria": "catv00002863",
+							"displayName": "Alcaucil",
+							"url": "/browse/catalogo-almacén-encurtidos-alcaucil/_/N-zjqlo5?"
+						},
+						{
+							"idCategoria": "catv00002864",
+							"displayName": "Berenjenas",
+							"url": "/browse/catalogo-almacén-encurtidos-berenjenas/_/N-1c4bjin?"
+						},
+						{
+							"idCategoria": "catv00002865",
+							"displayName": "Cebollitas",
+							"url": "/browse/catalogo-almacén-encurtidos-cebollitas/_/N-1854r3y?"
+						},
+						{
+							"idCategoria": "catv00002867",
+							"displayName": "Conservas",
+							"url": "/browse/catalogo-almacén-encurtidos-conservas/_/N-1n9nopi?"
+						},
+						{
+							"idCategoria": "catv00002868",
+							"displayName": "Espárragos",
+							"url": "/browse/catalogo-almacén-encurtidos-espárragos/_/N-19fea6w?"
+						},
+						{
+							"idCategoria": "catv00002870",
+							"displayName": "Hummus",
+							"url": "/browse/catalogo-almacén-encurtidos-hummus/_/N-rjw9tn?"
+						},
+						{
+							"idCategoria": "catv00002871",
+							"displayName": "Pepinito",
+							"url": "/browse/catalogo-almacén-encurtidos-pepinito/_/N-1s2lqxl?"
+						},
+						{
+							"idCategoria": "catv00002872",
+							"displayName": "Pickles",
+							"url": "/browse/catalogo-almacén-encurtidos-pickles/_/N-1uws3z1?"
+						},
+						{
+							"idCategoria": "catv00002873",
+							"displayName": "Palillos",
+							"url": "/browse/catalogo-almacén-encurtidos-palillos/_/N-j9nnzr?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001274",
+					"displayName": "Harinas",
+					"url": "/browse/catalogo-almacén-harinas/_/N-842qrm?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001412",
+							"displayName": "Harina de trigo",
+							"url": "/browse/catalogo-almacén-harinas-harina-de-trigo/_/N-14jn5rm?"
+						},
+						{
+							"idCategoria": "catv00001411",
+							"displayName": "Harina de maíz",
+							"url": "/browse/catalogo-almacén-harinas-harina-de-maíz/_/N-i6ajfm?"
+						},
+						{
+							"idCategoria": "catv00001414",
+							"displayName": "Premezcla",
+							"url": "/browse/catalogo-almacén-harinas-premezcla/_/N-1jtpcin?"
+						},
+						{
+							"idCategoria": "catv00001413",
+							"displayName": "Sémola",
+							"url": "/browse/catalogo-almacén-harinas-sémola/_/N-1ge3new?"
+						},
+						{
+							"idCategoria": "catv00002425",
+							"displayName": "Harina orgánica",
+							"url": "/browse/catalogo-almacén-harinas-harina-orgánica/_/N-1x05e4e?"
+						},
+						{
+							"idCategoria": "catv00002781",
+							"displayName": "Harina de arroz",
+							"url": "/browse/catalogo-almacén-harinas-harina-de-arroz/_/N-6zd215?"
+						},
+						{
+							"idCategoria": "catv00002887",
+							"displayName": "Harina sin gluten",
+							"url": "/browse/catalogo-almacén-harinas-harina-sin-gluten/_/N-ukuzn3?"
+						},
+						{
+							"idCategoria": "catv00002886",
+							"displayName": "Harina leudante",
+							"url": "/browse/catalogo-almacén-harinas-harina-leudante/_/N-et1fjw?"
+						},
+						{
+							"idCategoria": "catv00002883",
+							"displayName": "Cous cous",
+							"url": "/browse/catalogo-almacén-harinas-cous-cous/_/N-1lvpg4e?"
+						},
+						{
+							"idCategoria": "catv00002884",
+							"displayName": "Garbanzo",
+							"url": "/browse/catalogo-almacén-harinas-garbanzo/_/N-15tp8f1?"
+						},
+						{
+							"idCategoria": "catv00004061",
+							"displayName": "Harina integral",
+							"url": "/browse/catalogo-almacén-harinas-harina-integral/_/N-61ohl6?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001273",
+					"displayName": "Mermeladas y dulces",
+					"url": "/browse/catalogo-almacén-mermeladas-y-dulces/_/N-mj4aa8?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001408",
+							"displayName": "Mermeladas",
+							"url": "/browse/catalogo-almacén-mermeladas-y-dulces-mermeladas/_/N-va3r6f?"
+						},
+						{
+							"idCategoria": "catv00001407",
+							"displayName": "Miel",
+							"url": "/browse/catalogo-almacén-mermeladas-y-dulces-miel/_/N-10v5iow?"
+						},
+						{
+							"idCategoria": "catv00001409",
+							"displayName": "Jalea",
+							"url": "/browse/catalogo-almacén-mermeladas-y-dulces-jalea/_/N-197yqwi?"
+						},
+						{
+							"idCategoria": "catv00002806",
+							"displayName": "Dulce",
+							"url": "/browse/catalogo-almacén-mermeladas-y-dulces-dulce/_/N-xa8giw?"
+						},
+						{
+							"idCategoria": "catv00004063",
+							"displayName": "Pure de frutas",
+							"url": "/browse/catalogo-almacén-mermeladas-y-dulces-pure-de-frutas/_/N-voe8nh?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001379",
+					"displayName": "Mascotas",
+					"url": "/browse/catalogo-almacén-mascotas/_/N-hobiia?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001789",
+							"displayName": "Gatos",
+							"url": "/browse/catalogo-almacén-mascotas-gatos/_/N-1r82o37?"
+						},
+						{
+							"idCategoria": "catv00001791",
+							"displayName": "Perros",
+							"url": "/browse/catalogo-almacén-mascotas-perros/_/N-e45al2?"
+						},
+						{
+							"idCategoria": "catv00001787",
+							"displayName": "Accesorios",
+							"url": "/browse/catalogo-almacén-mascotas-accesorios/_/N-1l2fwdl?"
+						},
+						{
+							"idCategoria": "catv00001790",
+							"displayName": "Peces",
+							"url": "/browse/catalogo-almacén-mascotas-peces/_/N-1021o73?"
+						},
+						{
+							"idCategoria": "catv00001788",
+							"displayName": "Aves",
+							"url": "/browse/catalogo-almacén-mascotas-aves/_/N-1fm1bpl?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002808",
+					"displayName": "Linea roja",
+					"url": "/browse/catalogo-almacén-linea-roja/_/N-os1anu?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002930",
+							"displayName": "Extracto tomates",
+							"url": "/browse/catalogo-almacén-linea-roja-extracto-tomates/_/N-15iy0o5?"
+						},
+						{
+							"idCategoria": "catv00002931",
+							"displayName": "Jugo de tomate",
+							"url": "/browse/catalogo-almacén-linea-roja-jugo-de-tomate/_/N-h4ysuf?"
+						},
+						{
+							"idCategoria": "catv00002932",
+							"displayName": "Pulpa de tomate",
+							"url": "/browse/catalogo-almacén-linea-roja-pulpa-de-tomate/_/N-kf0bve?"
+						},
+						{
+							"idCategoria": "catv00002933",
+							"displayName": "Puré de tomate",
+							"url": "/browse/catalogo-almacén-linea-roja-puré-de-tomate/_/N-1eekjet?"
+						},
+						{
+							"idCategoria": "catv00002934",
+							"displayName": "Salsa de tomates dkt",
+							"url": "/browse/catalogo-almacén-linea-roja-salsa-de-tomates-dkt/_/N-1egw9c0?"
+						},
+						{
+							"idCategoria": "catv00002935",
+							"displayName": "Salsas preparadas",
+							"url": "/browse/catalogo-almacén-linea-roja-salsas-preparadas/_/N-1gnfvbp?"
+						},
+						{
+							"idCategoria": "catv00002936",
+							"displayName": "Tomate al natural",
+							"url": "/browse/catalogo-almacén-linea-roja-tomate-al-natural/_/N-vbov5k?"
+						},
+						{
+							"idCategoria": "catv00002937",
+							"displayName": "Tomate triturado",
+							"url": "/browse/catalogo-almacén-linea-roja-tomate-triturado/_/N-eecib2?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002975",
+					"displayName": "Aceites y condimentos",
+					"url": "/browse/catalogo-almacén-aceites-y-condimentos/_/N-18r69ct?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001264",
+							"displayName": "Aceites",
+							"url": "/browse/catalogo-almacén-aceites-y-condimentos-aceites/_/N-16r0nc0?"
+						},
+						{
+							"idCategoria": "catv00002795",
+							"displayName": "Condimentos",
+							"url": "/browse/catalogo-almacén-aceites-y-condimentos-condimentos/_/N-1f9ytwc?"
+						},
+						{
+							"idCategoria": "catv00002800",
+							"displayName": "Vinagres",
+							"url": "/browse/catalogo-almacén-aceites-y-condimentos-vinagres/_/N-1a5jpj4?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002976",
+					"displayName": "Alimento de bebés y niños",
+					"url": "/browse/catalogo-almacén-alimento-de-bebés-y-niños/_/N-nnh9fj?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001268",
+							"displayName": "Alimentos para bebé",
+							"url": "/browse/catalogo-almacén-alimento-de-bebés-y-niños-alimentos-para-bebé/_/N-hirzwy?"
+						},
+						{
+							"idCategoria": "catv00002811",
+							"displayName": "Infusiones infantiles",
+							"url": "/browse/catalogo-almacén-alimento-de-bebés-y-niños-infusiones-infantiles/_/N-7h3to3?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002977",
+					"displayName": "Arroz y legumbres",
+					"url": "/browse/catalogo-almacén-arroz-y-legumbres/_/N-c0x2yz?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001279",
+							"displayName": "Arroz",
+							"url": "/browse/catalogo-almacén-arroz-y-legumbres-arroz/_/N-149fj7g?"
+						},
+						{
+							"idCategoria": "catv00001276",
+							"displayName": "Legumbres",
+							"url": "/browse/catalogo-almacén-arroz-y-legumbres-legumbres/_/N-4trlda?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002978",
+					"displayName": "Especias",
+					"url": "/browse/catalogo-almacén-especias/_/N-1t0tm80?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002219",
+							"displayName": "Especias",
+							"url": "/browse/catalogo-almacén-especias-especias/_/N-1arvz2p?"
+						},
+						{
+							"idCategoria": "catv00001290",
+							"displayName": "Semillas",
+							"url": "/browse/catalogo-almacén-especias-semillas/_/N-1wi2j1a?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002979",
+					"displayName": "Pasta seca, lista y rellenas",
+					"url": "/browse/catalogo-almacén-pasta-seca-lista-y-rellenas/_/N-tvb9c7?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002810",
+							"displayName": "Pasta lista y rellena",
+							"url": "/browse/catalogo-almacén-pasta-seca-lista-y-rellenas-pasta-lista-y-rellena/_/N-3w7irq?"
+						},
+						{
+							"idCategoria": "catv00002794",
+							"displayName": "Pastas secas",
+							"url": "/browse/catalogo-almacén-pasta-seca-lista-y-rellenas-pastas-secas/_/N-f258hq?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002980",
+					"displayName": "Polvo para postres y reposteria",
+					"url": "/browse/catalogo-almacén-polvo-para-postres-y-reposteria/_/N-a6cxru?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002360",
+							"displayName": "Premezcla postres",
+							"url": "/browse/catalogo-almacén-polvo-para-postres-y-reposteria-premezcla-postres/_/N-1pm2ots?"
+						},
+						{
+							"idCategoria": "catv00001277",
+							"displayName": "Repostería",
+							"url": "/browse/catalogo-almacén-polvo-para-postres-y-reposteria-repostería/_/N-tmyd8?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002981",
+					"displayName": "Sopas, caldos, puré y saborizantes",
+					"url": "/browse/catalogo-almacén-sopas-caldos-puré-y-saborizantes/_/N-10vvk4q?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002809",
+							"displayName": "Mezcla lista",
+							"url": "/browse/catalogo-almacén-sopas-caldos-puré-y-saborizantes-mezcla-lista/_/N-3t1dg7?"
+						},
+						{
+							"idCategoria": "catv00001271",
+							"displayName": "Sopas y saborizantes",
+							"url": "/browse/catalogo-almacén-sopas-caldos-puré-y-saborizantes-sopas-y-saborizantes/_/N-1v2h1e8?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003530",
+					"displayName": "Panaderia",
+					"url": "/browse/catalogo-almacén-panaderia/_/N-s3bf1a?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003531",
+							"displayName": "Bizcochos",
+							"url": "/browse/catalogo-almacén-panaderia-bizcochos/_/N-1d9onds?"
+						},
+						{
+							"idCategoria": "catv00003532",
+							"displayName": "Bizcochuelos y especialidades",
+							"url": "/browse/catalogo-almacén-panaderia-bizcochuelos-y-especialidades/_/N-1n1kggo?"
+						},
+						{
+							"idCategoria": "catv00003533",
+							"displayName": "Cereales",
+							"url": "/browse/catalogo-almacén-panaderia-cereales/_/N-1rno5q9?"
+						},
+						{
+							"idCategoria": "catv00003534",
+							"displayName": "Galletas, tostadas y grisines",
+							"url": "/browse/catalogo-almacén-panaderia-galletas-tostadas-y-grisines/_/N-39hspl?"
+						},
+						{
+							"idCategoria": "catv00003540",
+							"displayName": "Panificados",
+							"url": "/browse/catalogo-almacén-panaderia-panificados/_/N-1sv7ob1?"
+						},
+						{
+							"idCategoria": "catv00003541",
+							"displayName": "Productos copetín",
+							"url": "/browse/catalogo-almacén-panaderia-productos-copetín/_/N-1v7lwqk?"
+						},
+						{
+							"idCategoria": "catv00003542",
+							"displayName": "Rebozador y pan rallado",
+							"url": "/browse/catalogo-almacén-panaderia-rebozador-y-pan-rallado/_/N-vzkvhk?"
+						},
+						{
+							"idCategoria": "catv00002972",
+							"displayName": "Tortas",
+							"url": "/browse/catalogo-almacén-panaderia-tortas/_/N-qm0lwa?"
+						},
+						{
+							"idCategoria": "catv00002974",
+							"displayName": "Facturas",
+							"url": "/browse/catalogo-almacén-panaderia-facturas/_/N-ubi1n7?"
+						},
+						{
+							"idCategoria": "catv00002973",
+							"displayName": "Sandwiches",
+							"url": "/browse/catalogo-almacén-panaderia-sandwiches/_/N-1v2w4tk?"
+						},
+						{
+							"idCategoria": "catv00003683",
+							"displayName": "Pan dulce",
+							"url": "/browse/catalogo-almacén-panaderia-pan-dulce/_/N-c7gx35?"
+						},
+						{
+							"idCategoria": "catv00003433",
+							"displayName": "Turrones",
+							"url": "/browse/catalogo-almacén-panaderia-turrones/_/N-1ykarop?"
+						},
+						{
+							"idCategoria": "catv00004000",
+							"displayName": "Confites",
+							"url": "/browse/catalogo-almacén-panaderia-confites/_/N-rtw6nb?"
+						},
+						{
+							"idCategoria": "catv00004082",
+							"displayName": "Galletitas",
+							"url": "/browse/catalogo-almacén-panaderia-galletitas/_/N-10z239c?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00004072",
+					"displayName": "Cajas navideñas",
+					"url": "/browse/catalogo-almacén-cajas-navideñas/_/N-cpkelu?",
+					"secondLevelCategories": []
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001256",
+			"displayName": "Bebidas",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_bebidas",
+			"extension": ".png",
+			"url": "/browse/catalogo-bebidas/_/N-1c1jy9y?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00001301",
+					"displayName": "Bebidas sin alcohol",
+					"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol/_/N-j9f2pv?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001540",
+							"displayName": "Gaseosas",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-gaseosas/_/N-n4l4r5?"
+						},
+						{
+							"idCategoria": "catv00001542",
+							"displayName": "Jugos",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-jugos/_/N-11la5tu?"
+						},
+						{
+							"idCategoria": "catv00001537",
+							"displayName": "Amargos",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-amargos/_/N-1mf4idu?"
+						},
+						{
+							"idCategoria": "catv00001539",
+							"displayName": "Energizantes",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-energizantes/_/N-1js4wik?"
+						},
+						{
+							"idCategoria": "catv00002071",
+							"displayName": "Bebidas isotónicas",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-bebidas-isotónicas/_/N-pz126?"
+						},
+						{
+							"idCategoria": "catv00001544",
+							"displayName": "Bebida herbal",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-bebida-herbal/_/N-83ubn8?"
+						},
+						{
+							"idCategoria": "catv00001541",
+							"displayName": "Granadinas",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-granadinas/_/N-1trypio?"
+						},
+						{
+							"idCategoria": "catv00001543",
+							"displayName": "Sidras",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-sidras/_/N-wbn3k9?"
+						},
+						{
+							"idCategoria": "catv00002783",
+							"displayName": "Malta",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-malta/_/N-135mh5?"
+						},
+						{
+							"idCategoria": "catv00004086",
+							"displayName": "Aguas",
+							"url": "/browse/catalogo-bebidas-bebidas-sin-alcohol-aguas/_/N-17xtqou?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001300",
+					"displayName": "Bebidas con alcohol",
+					"url": "/browse/catalogo-bebidas-bebidas-con-alcohol/_/N-4hulsc?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001527",
+							"displayName": "Cerveza",
+							"url": "/browse/catalogo-bebidas-bebidas-con-alcohol-cerveza/_/N-137sk0z?"
+						},
+						{
+							"idCategoria": "catv00001532",
+							"displayName": "Vinos",
+							"url": "/browse/catalogo-bebidas-bebidas-con-alcohol-vinos/_/N-uqiqtm?"
+						},
+						{
+							"idCategoria": "catv00001524",
+							"displayName": "Aperitivos",
+							"url": "/browse/catalogo-bebidas-bebidas-con-alcohol-aperitivos/_/N-1lbig2w?"
+						},
+						{
+							"idCategoria": "catv00001528",
+							"displayName": "Champagne y espumantes",
+							"url": "/browse/catalogo-bebidas-bebidas-con-alcohol-champagne-y-espumantes/_/N-qxxhmm?"
+						},
+						{
+							"idCategoria": "catv00001525",
+							"displayName": "Bebidas blancas y destiladas",
+							"url": "/browse/catalogo-bebidas-bebidas-con-alcohol-bebidas-blancas-y-destiladas/_/N-jigb2z?"
+						},
+						{
+							"idCategoria": "catv00001533",
+							"displayName": "Whiskys",
+							"url": "/browse/catalogo-bebidas-bebidas-con-alcohol-whiskys/_/N-t0seih?"
+						},
+						{
+							"idCategoria": "catv00001529",
+							"displayName": "Licores",
+							"url": "/browse/catalogo-bebidas-bebidas-con-alcohol-licores/_/N-1lnekxo?"
+						},
+						{
+							"idCategoria": "catv00001534",
+							"displayName": "Habanos",
+							"url": "/browse/catalogo-bebidas-bebidas-con-alcohol-habanos/_/N-jdf801?"
+						},
+						{
+							"idCategoria": "catv00003456",
+							"displayName": "Conservadoras",
+							"url": "/browse/catalogo-bebidas-bebidas-con-alcohol-conservadoras/_/N-l7wyta?"
+						}
+					]
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001255",
+			"displayName": "Frescos",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_frescos",
+			"extension": ".png",
+			"url": "/browse/catalogo-frescos/_/N-1ewuqo6?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00001295",
+					"displayName": "Lácteos",
+					"url": "/browse/catalogo-frescos-lácteos/_/N-1d443r9?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003266",
+							"displayName": "Leches",
+							"url": "/browse/catalogo-frescos-lácteos-leches/_/N-zpvqr7?"
+						},
+						{
+							"idCategoria": "catv00003251",
+							"displayName": "Yogures",
+							"url": "/browse/catalogo-frescos-lácteos-yogures/_/N-rfedtp?"
+						},
+						{
+							"idCategoria": "catv00003250",
+							"displayName": "Dulce de leche",
+							"url": "/browse/catalogo-frescos-lácteos-dulce-de-leche/_/N-1d6oa8j?"
+						},
+						{
+							"idCategoria": "catv00003277",
+							"displayName": "Mantecas y margarinas",
+							"url": "/browse/catalogo-frescos-lácteos-mantecas-y-margarinas/_/N-k4p4ks?"
+						},
+						{
+							"idCategoria": "catv00003258",
+							"displayName": "Jugos refrigerados",
+							"url": "/browse/catalogo-frescos-lácteos-jugos-refrigerados/_/N-ix1zfu?"
+						},
+						{
+							"idCategoria": "catv00003262",
+							"displayName": "Levaduras",
+							"url": "/browse/catalogo-frescos-lácteos-levaduras/_/N-4ecmag?"
+						},
+						{
+							"idCategoria": "catv00003263",
+							"displayName": "Grasas animales",
+							"url": "/browse/catalogo-frescos-lácteos-grasas-animales/_/N-1ubx5o7?"
+						},
+						{
+							"idCategoria": "catv00003264",
+							"displayName": "Ricottas",
+							"url": "/browse/catalogo-frescos-lácteos-ricottas/_/N-szr734?"
+						},
+						{
+							"idCategoria": "catv00003273",
+							"displayName": "Quesos",
+							"url": "/browse/catalogo-frescos-lácteos-quesos/_/N-1i4o8ap?"
+						},
+						{
+							"idCategoria": "catv00003274",
+							"displayName": "Cremas",
+							"url": "/browse/catalogo-frescos-lácteos-cremas/_/N-qq8gi8?"
+						},
+						{
+							"idCategoria": "catv00003278",
+							"displayName": "Postres",
+							"url": "/browse/catalogo-frescos-lácteos-postres/_/N-1momxoz?"
+						},
+						{
+							"idCategoria": "catv00003761",
+							"displayName": "Alimentos vegetales",
+							"url": "/browse/catalogo-frescos-lácteos-alimentos-vegetales/_/N-zwvqjc?"
+						},
+						{
+							"idCategoria": "catv00003958",
+							"displayName": "Salsas y aderezos",
+							"url": "/browse/catalogo-frescos-lácteos-salsas-y-aderezos/_/N-8h8fwj?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001299",
+					"displayName": "Fiambres",
+					"url": "/browse/catalogo-frescos-fiambres/_/N-1j6o93y?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001521",
+							"displayName": "Salchichas y pates",
+							"url": "/browse/catalogo-frescos-fiambres-salchichas-y-pates/_/N-1mucuiv?"
+						},
+						{
+							"idCategoria": "catv00001520",
+							"displayName": "Encurtidos a granel",
+							"url": "/browse/catalogo-frescos-fiambres-encurtidos-a-granel/_/N-80novy?"
+						},
+						{
+							"idCategoria": "catv00003333",
+							"displayName": "Fiambres",
+							"url": "/browse/catalogo-frescos-fiambres-fiambres/_/N-11vgf3l?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003769",
+					"displayName": "Quesos",
+					"url": "/browse/catalogo-frescos-quesos/_/N-1d0721n?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003800",
+							"displayName": "Queso rallado",
+							"url": "/browse/catalogo-frescos-quesos-queso-rallado/_/N-1msa48d?"
+						},
+						{
+							"idCategoria": "catv00003797",
+							"displayName": "Queso muzzarella",
+							"url": "/browse/catalogo-frescos-quesos-queso-muzzarella/_/N-1wk3t2z?"
+						},
+						{
+							"idCategoria": "catv00003779",
+							"displayName": "Queso cremoso",
+							"url": "/browse/catalogo-frescos-quesos-queso-cremoso/_/N-nscp3n?"
+						},
+						{
+							"idCategoria": "catv00003803",
+							"displayName": "Queso semiduro",
+							"url": "/browse/catalogo-frescos-quesos-queso-semiduro/_/N-8zt5sh?"
+						},
+						{
+							"idCategoria": "catv00003780",
+							"displayName": "Quesos duros",
+							"url": "/browse/catalogo-frescos-quesos-quesos-duros/_/N-1mctvv7?"
+						},
+						{
+							"idCategoria": "catv00001523",
+							"displayName": "Dulces",
+							"url": "/browse/catalogo-frescos-quesos-dulces/_/N-pmog0z?"
+						},
+						{
+							"idCategoria": "catv00003777",
+							"displayName": "Queso azul",
+							"url": "/browse/catalogo-frescos-quesos-queso-azul/_/N-zigmhs?"
+						},
+						{
+							"idCategoria": "catv00003778",
+							"displayName": "Quesos reducidos en lactosa",
+							"url": "/browse/catalogo-frescos-quesos-quesos-reducidos-en-lactosa/_/N-192hmpj?"
+						},
+						{
+							"idCategoria": "catv00003785",
+							"displayName": "Queso feteado",
+							"url": "/browse/catalogo-frescos-quesos-queso-feteado/_/N-1n8wdvm?"
+						},
+						{
+							"idCategoria": "catv00003794",
+							"displayName": "Queso fundido",
+							"url": "/browse/catalogo-frescos-quesos-queso-fundido/_/N-1smeu4u?"
+						},
+						{
+							"idCategoria": "catv00003798",
+							"displayName": "Queso port salut",
+							"url": "/browse/catalogo-frescos-quesos-queso-port-salut/_/N-13sw78i?"
+						},
+						{
+							"idCategoria": "catv00003818",
+							"displayName": "Quesos especiales",
+							"url": "/browse/catalogo-frescos-quesos-quesos-especiales/_/N-1qkdu8t?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001292",
+					"displayName": "Carniceria",
+					"url": "/browse/catalogo-frescos-carniceria/_/N-176whnp?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001460",
+							"displayName": "Carnes",
+							"url": "/browse/catalogo-frescos-carniceria-carnes/_/N-1uhue0v?"
+						},
+						{
+							"idCategoria": "catv00001462",
+							"displayName": "Aves",
+							"url": "/browse/catalogo-frescos-carniceria-aves/_/N-iq9jsg?"
+						},
+						{
+							"idCategoria": "catv00001461",
+							"displayName": "Embutidos",
+							"url": "/browse/catalogo-frescos-carniceria-embutidos/_/N-1gmfpsx?"
+						},
+						{
+							"idCategoria": "catv00001465",
+							"displayName": "Carnes elaboradas",
+							"url": "/browse/catalogo-frescos-carniceria-carnes-elaboradas/_/N-1p0jr2h?"
+						},
+						{
+							"idCategoria": "catv00001463",
+							"displayName": "Granja",
+							"url": "/browse/catalogo-frescos-carniceria-granja/_/N-7j5716?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001297",
+					"displayName": "Pastas frescas y tapas",
+					"url": "/browse/catalogo-frescos-pastas-frescas-y-tapas/_/N-1e4im7l?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001864",
+							"displayName": "Fideos y ñoquis",
+							"url": "/browse/catalogo-frescos-pastas-frescas-y-tapas-fideos-y-ñoquis/_/N-h4kjll?"
+						},
+						{
+							"idCategoria": "catv00001869",
+							"displayName": "Pastas rellenas",
+							"url": "/browse/catalogo-frescos-pastas-frescas-y-tapas-pastas-rellenas/_/N-z02zil?"
+						},
+						{
+							"idCategoria": "catv00004006",
+							"displayName": "Tapas para pascualina y empanadas",
+							"url": "/browse/catalogo-frescos-pastas-frescas-y-tapas-tapas-para-pascualina-y-empanadas/_/N-1vu6673?"
+						},
+						{
+							"idCategoria": "catv00004007",
+							"displayName": "Masas preparadas",
+							"url": "/browse/catalogo-frescos-pastas-frescas-y-tapas-masas-preparadas/_/N-10lt64h?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001298",
+					"displayName": "Comidas elaboradas",
+					"url": "/browse/catalogo-frescos-comidas-elaboradas/_/N-l535ea?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003349",
+							"displayName": "Postres",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-postres/_/N-1kv8ka5?"
+						},
+						{
+							"idCategoria": "catv00003350",
+							"displayName": "Pizzas y empanadas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-pizzas-y-empanadas/_/N-1khkj67?"
+						},
+						{
+							"idCategoria": "catv00003366",
+							"displayName": "Supremas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-supremas/_/N-1ktbage?"
+						},
+						{
+							"idCategoria": "catv00003365",
+							"displayName": "Pollos",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-pollos/_/N-dgka1s?"
+						},
+						{
+							"idCategoria": "catv00003351",
+							"displayName": "Arrollados",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-arrollados/_/N-1k7iund?"
+						},
+						{
+							"idCategoria": "catv00003352",
+							"displayName": "Tartas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-tartas/_/N-76fqlw?"
+						},
+						{
+							"idCategoria": "catv00003353",
+							"displayName": "Arroces",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-arroces/_/N-uyry3h?"
+						},
+						{
+							"idCategoria": "catv00003354",
+							"displayName": "Canelones",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-canelones/_/N-py8q2n?"
+						},
+						{
+							"idCategoria": "catv00003355",
+							"displayName": "Sorrentinos",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-sorrentinos/_/N-wa5n5g?"
+						},
+						{
+							"idCategoria": "catv00003356",
+							"displayName": "Albondigas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-albondigas/_/N-1hgfzrs?"
+						},
+						{
+							"idCategoria": "catv00003357",
+							"displayName": "Papas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-papas/_/N-12zs09f?"
+						},
+						{
+							"idCategoria": "catv00003358",
+							"displayName": "Brochetas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-brochetas/_/N-xgk4b?"
+						},
+						{
+							"idCategoria": "catv00003359",
+							"displayName": "Vitel toné",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-vitel-toné/_/N-1xhbu6t?"
+						},
+						{
+							"idCategoria": "catv00003360",
+							"displayName": "Tortillas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-tortillas/_/N-992wyx?"
+						},
+						{
+							"idCategoria": "catv00003361",
+							"displayName": "Calzone",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-calzone/_/N-n1a0x9?"
+						},
+						{
+							"idCategoria": "catv00003362",
+							"displayName": "Ensaladas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-ensaladas/_/N-1w7dcrm?"
+						},
+						{
+							"idCategoria": "catv00003363",
+							"displayName": "Milanesas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-milanesas/_/N-zga7pz?"
+						},
+						{
+							"idCategoria": "catv00003364",
+							"displayName": "Matambres",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-matambres/_/N-1jpg2qr?"
+						},
+						{
+							"idCategoria": "catv00003367",
+							"displayName": "Lengua",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-lengua/_/N-59r02x?"
+						},
+						{
+							"idCategoria": "catv00003463",
+							"displayName": "Pernil de cerdo",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-pernil-de-cerdo/_/N-mod011?"
+						},
+						{
+							"idCategoria": "catv00003467",
+							"displayName": "Peceto",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-peceto/_/N-1gq6qwz?"
+						},
+						{
+							"idCategoria": "catv00003652",
+							"displayName": "Ñoquis",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-ñoquis/_/N-q6oa9n?"
+						},
+						{
+							"idCategoria": "catv00003653",
+							"displayName": "Ravioles",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-ravioles/_/N-18p53cv?"
+						},
+						{
+							"idCategoria": "catv00003654",
+							"displayName": "Vacío",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-vacío/_/N-1jiyyex?"
+						},
+						{
+							"idCategoria": "catv00003672",
+							"displayName": "Morcilla",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-morcilla/_/N-u914yc?"
+						},
+						{
+							"idCategoria": "catv00003674",
+							"displayName": "Chorizo",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-chorizo/_/N-muosse?"
+						},
+						{
+							"idCategoria": "catv00003676",
+							"displayName": "Pechito con manta",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-pechito-con-manta/_/N-7s1kcr?"
+						},
+						{
+							"idCategoria": "catv00003677",
+							"displayName": "Bondiola de cerdo",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-bondiola-de-cerdo/_/N-erhysy?"
+						},
+						{
+							"idCategoria": "catv00003766",
+							"displayName": "Locro",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-locro/_/N-pecd5f?"
+						},
+						{
+							"idCategoria": "catv00003767",
+							"displayName": "Mondongo a la española",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-mondongo-a-la-española/_/N-jw3jn9?"
+						},
+						{
+							"idCategoria": "catv00003768",
+							"displayName": "Lentejas guisadas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-lentejas-guisadas/_/N-1q1zwbk?"
+						},
+						{
+							"idCategoria": "catv00003986",
+							"displayName": "Otras comidas",
+							"url": "/browse/catalogo-frescos-comidas-elaboradas-otras-comidas/_/N-1sctfcr?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003285",
+					"displayName": "Frutas y verduras",
+					"url": "/browse/catalogo-frescos-frutas-y-verduras/_/N-zxw18u?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003286",
+							"displayName": "Frutas",
+							"url": "/browse/catalogo-frescos-frutas-y-verduras-frutas/_/N-1edtocx?"
+						},
+						{
+							"idCategoria": "catv00003308",
+							"displayName": "Verduras",
+							"url": "/browse/catalogo-frescos-frutas-y-verduras-verduras/_/N-1vh8n7u?"
+						},
+						{
+							"idCategoria": "catv00003316",
+							"displayName": "Frutas secas y desecadas",
+							"url": "/browse/catalogo-frescos-frutas-y-verduras-frutas-secas-y-desecadas/_/N-1djvjrm?"
+						},
+						{
+							"idCategoria": "catv00003310",
+							"displayName": "Champignones",
+							"url": "/browse/catalogo-frescos-frutas-y-verduras-champignones/_/N-7luw8p?"
+						},
+						{
+							"idCategoria": "catv00003309",
+							"displayName": "Cereales y harinas",
+							"url": "/browse/catalogo-frescos-frutas-y-verduras-cereales-y-harinas/_/N-oqkkvi?"
+						},
+						{
+							"idCategoria": "catv00003311",
+							"displayName": "Hierbas aromáticas",
+							"url": "/browse/catalogo-frescos-frutas-y-verduras-hierbas-aromáticas/_/N-f2orhy?"
+						},
+						{
+							"idCategoria": "catv00003314",
+							"displayName": "Legumbres",
+							"url": "/browse/catalogo-frescos-frutas-y-verduras-legumbres/_/N-1fghxyh?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001293",
+					"displayName": "Pescados y mariscos",
+					"url": "/browse/catalogo-frescos-pescados-y-mariscos/_/N-yxu4b7?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001468",
+							"displayName": "Pescado entero",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-pescado-entero/_/N-1bz2fxy?"
+						},
+						{
+							"idCategoria": "catv00001467",
+							"displayName": "Camarones y langostinos",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-camarones-y-langostinos/_/N-duqeiq?"
+						},
+						{
+							"idCategoria": "catv00001469",
+							"displayName": "Pulpos y sepias",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-pulpos-y-sepias/_/N-1bopjrw?"
+						},
+						{
+							"idCategoria": "catv00002651",
+							"displayName": "Calamares",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-calamares/_/N-vnki9d?"
+						},
+						{
+							"idCategoria": "catv00002777",
+							"displayName": "Surimi y kanikama",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-surimi-y-kanikama/_/N-b8g7vv?"
+						},
+						{
+							"idCategoria": "catv00002778",
+							"displayName": "Rebozados",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-rebozados/_/N-1j5mbh3?"
+						},
+						{
+							"idCategoria": "catv00002779",
+							"displayName": "Delicias",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-delicias/_/N-1n0om0n?"
+						},
+						{
+							"idCategoria": "catv00002780",
+							"displayName": "Mejillones y mariscos",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-mejillones-y-mariscos/_/N-1plq7fc?"
+						},
+						{
+							"idCategoria": "catv00003983",
+							"displayName": "Crustaceos",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-crustaceos/_/N-hdb0o1?"
+						},
+						{
+							"idCategoria": "catv00003984",
+							"displayName": "Salmonidos",
+							"url": "/browse/catalogo-frescos-pescados-y-mariscos-salmonidos/_/N-19ogg8g?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001464",
+					"displayName": "Huevos",
+					"url": "/browse/catalogo-frescos-huevos/_/N-mtdtw6?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00004083",
+							"displayName": "Huevos color",
+							"url": "/browse/catalogo-frescos-huevos-huevos-color/_/N-10vq9v0?"
+						},
+						{
+							"idCategoria": "catv00004084",
+							"displayName": "Huevos blanco",
+							"url": "/browse/catalogo-frescos-huevos-huevos-blanco/_/N-1y8g9xo?"
+						},
+						{
+							"idCategoria": "catv00004085",
+							"displayName": "Huevos codorniz",
+							"url": "/browse/catalogo-frescos-huevos-huevos-codorniz/_/N-u85ei3?"
+						}
+					]
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001296",
+			"displayName": "Congelados",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_conge",
+			"extension": ".png",
+			"url": "/browse/catalogo-congelados/_/N-1xgbihs?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00003146",
+					"displayName": "Helados y postres",
+					"url": "/browse/catalogo-congelados-helados-y-postres/_/N-cor40m?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003147",
+							"displayName": "Postres helados",
+							"url": "/browse/catalogo-congelados-helados-y-postres-postres-helados/_/N-1drnaal?"
+						},
+						{
+							"idCategoria": "catv00003183",
+							"displayName": "Yogur helado",
+							"url": "/browse/catalogo-congelados-helados-y-postres-yogur-helado/_/N-uvb589?"
+						},
+						{
+							"idCategoria": "catv00003247",
+							"displayName": "Helados en pote",
+							"url": "/browse/catalogo-congelados-helados-y-postres-helados-en-pote/_/N-12vlhlq?"
+						},
+						{
+							"idCategoria": "catv00003248",
+							"displayName": "Helados en palito",
+							"url": "/browse/catalogo-congelados-helados-y-postres-helados-en-palito/_/N-jfcmg7?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003238",
+					"displayName": "Comidas congeladas",
+					"url": "/browse/catalogo-congelados-comidas-congeladas/_/N-m17c6b?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003211",
+							"displayName": "Pizzas y pizzetas",
+							"url": "/browse/catalogo-congelados-comidas-congeladas-pizzas-y-pizzetas/_/N-exfdmm?"
+						},
+						{
+							"idCategoria": "catv00003235",
+							"displayName": "Pastas congeladas",
+							"url": "/browse/catalogo-congelados-comidas-congeladas-pastas-congeladas/_/N-lg2nai?"
+						},
+						{
+							"idCategoria": "catv00003184",
+							"displayName": "Panificados",
+							"url": "/browse/catalogo-congelados-comidas-congeladas-panificados/_/N-136xopu?"
+						},
+						{
+							"idCategoria": "catv00003214",
+							"displayName": "Relleno para tacos",
+							"url": "/browse/catalogo-congelados-comidas-congeladas-relleno-para-tacos/_/N-mmgzzu?"
+						},
+						{
+							"idCategoria": "catv00003202",
+							"displayName": "Croquetas",
+							"url": "/browse/catalogo-congelados-comidas-congeladas-croquetas/_/N-1vf1aw7?"
+						},
+						{
+							"idCategoria": "catv00003157",
+							"displayName": "Salchichas de soja",
+							"url": "/browse/catalogo-congelados-comidas-congeladas-salchichas-de-soja/_/N-xx2bm?"
+						},
+						{
+							"idCategoria": "catv00003236",
+							"displayName": "Empanadas y tartas",
+							"url": "/browse/catalogo-congelados-comidas-congeladas-empanadas-y-tartas/_/N-aexivp?"
+						},
+						{
+							"idCategoria": "catv00003368",
+							"displayName": "Rebozados",
+							"url": "/browse/catalogo-congelados-comidas-congeladas-rebozados/_/N-9k83rh?"
+						},
+						{
+							"idCategoria": "catv00003997",
+							"displayName": "Bastones de mozzarella",
+							"url": "/browse/catalogo-congelados-comidas-congeladas-bastones-de-mozzarella/_/N-ipmsdg?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003237",
+					"displayName": "Hamburguesas y milanesas",
+					"url": "/browse/catalogo-congelados-hamburguesas-y-milanesas/_/N-15wfcx5?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003159",
+							"displayName": "Hamburguesas",
+							"url": "/browse/catalogo-congelados-hamburguesas-y-milanesas-hamburguesas/_/N-16wlpjh?"
+						},
+						{
+							"idCategoria": "catv00003149",
+							"displayName": "Milanesas",
+							"url": "/browse/catalogo-congelados-hamburguesas-y-milanesas-milanesas/_/N-6gt5r5?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003234",
+					"displayName": "Vegetales congelados",
+					"url": "/browse/catalogo-congelados-vegetales-congelados/_/N-8efwh3?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003220",
+							"displayName": "Vegetales picados",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-vegetales-picados/_/N-14hho9w?"
+						},
+						{
+							"idCategoria": "catv00003161",
+							"displayName": "Espinacas",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-espinacas/_/N-1rvt0h?"
+						},
+						{
+							"idCategoria": "catv00003162",
+							"displayName": "Acelga",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-acelga/_/N-1s1nzar?"
+						},
+						{
+							"idCategoria": "catv00003165",
+							"displayName": "Arvejas",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-arvejas/_/N-1dd6xuw?"
+						},
+						{
+							"idCategoria": "catv00003169",
+							"displayName": "Cebollas",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-cebollas/_/N-1pdm1sq?"
+						},
+						{
+							"idCategoria": "catv00003173",
+							"displayName": "Chauchas",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-chauchas/_/N-jstwp6?"
+						},
+						{
+							"idCategoria": "catv00003163",
+							"displayName": "Brocoli",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-brocoli/_/N-2rwuvk?"
+						},
+						{
+							"idCategoria": "catv00003166",
+							"displayName": "Choclos",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-choclos/_/N-15ey78l?"
+						},
+						{
+							"idCategoria": "catv00003170",
+							"displayName": "Zanahorias",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-zanahorias/_/N-106ne2i?"
+						},
+						{
+							"idCategoria": "catv00003208",
+							"displayName": "Wok de vegetales",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-wok-de-vegetales/_/N-1vryghg?"
+						},
+						{
+							"idCategoria": "catv00003209",
+							"displayName": "Ensalada primavera",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-ensalada-primavera/_/N-w795lk?"
+						},
+						{
+							"idCategoria": "catv00003210",
+							"displayName": "Vegetales para saltear",
+							"url": "/browse/catalogo-congelados-vegetales-congelados-vegetales-para-saltear/_/N-126zss9?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003201",
+					"displayName": "Papas",
+					"url": "/browse/catalogo-congelados-papas/_/N-1vcscvz?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003195",
+							"displayName": "Papas bastón",
+							"url": "/browse/catalogo-congelados-papas-papas-bastón/_/N-1gz1p9f?"
+						},
+						{
+							"idCategoria": "catv00003194",
+							"displayName": "Papas noisettes",
+							"url": "/browse/catalogo-congelados-papas-papas-noisettes/_/N-l2rp8u?"
+						},
+						{
+							"idCategoria": "catv00003197",
+							"displayName": "Papas con formas",
+							"url": "/browse/catalogo-congelados-papas-papas-con-formas/_/N-1cqpgju?"
+						},
+						{
+							"idCategoria": "catv00003199",
+							"displayName": "Papas estilo casero",
+							"url": "/browse/catalogo-congelados-papas-papas-estilo-casero/_/N-1imxd1l?"
+						},
+						{
+							"idCategoria": "catv00003198",
+							"displayName": "Papas golden longs",
+							"url": "/browse/catalogo-congelados-papas-papas-golden-longs/_/N-c55svo?"
+						},
+						{
+							"idCategoria": "catv00003200",
+							"displayName": "Bombas de papa y queso",
+							"url": "/browse/catalogo-congelados-papas-bombas-de-papa-y-queso/_/N-s69mb0?"
+						},
+						{
+							"idCategoria": "catv00003196",
+							"displayName": "Papas para horno",
+							"url": "/browse/catalogo-congelados-papas-papas-para-horno/_/N-rdav0c?"
+						},
+						{
+							"idCategoria": "catv00003193",
+							"displayName": "Papas rústicas",
+							"url": "/browse/catalogo-congelados-papas-papas-rústicas/_/N-1wyy2vh?"
+						},
+						{
+							"idCategoria": "catv00003175",
+							"displayName": "Tortillas",
+							"url": "/browse/catalogo-congelados-papas-tortillas/_/N-j77rz0?"
+						},
+						{
+							"idCategoria": "catv00003996",
+							"displayName": "Papas crinkle",
+							"url": "/browse/catalogo-congelados-papas-papas-crinkle/_/N-17bfeu2?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003204",
+					"displayName": "Frutas congeladas",
+					"url": "/browse/catalogo-congelados-frutas-congeladas/_/N-14w51iy?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003241",
+							"displayName": "Frutillas",
+							"url": "/browse/catalogo-congelados-frutas-congeladas-frutillas/_/N-1ry5brt?"
+						},
+						{
+							"idCategoria": "catv00003242",
+							"displayName": "Arándanos",
+							"url": "/browse/catalogo-congelados-frutas-congeladas-arándanos/_/N-mo1piu?"
+						},
+						{
+							"idCategoria": "catv00003243",
+							"displayName": "Frambuesas",
+							"url": "/browse/catalogo-congelados-frutas-congeladas-frambuesas/_/N-ewcvkb?"
+						},
+						{
+							"idCategoria": "catv00003244",
+							"displayName": "Mango",
+							"url": "/browse/catalogo-congelados-frutas-congeladas-mango/_/N-lx4i6y?"
+						},
+						{
+							"idCategoria": "catv00003245",
+							"displayName": "Moras",
+							"url": "/browse/catalogo-congelados-frutas-congeladas-moras/_/N-1w167y9?"
+						},
+						{
+							"idCategoria": "catv00003246",
+							"displayName": "Mix de frutas",
+							"url": "/browse/catalogo-congelados-frutas-congeladas-mix-de-frutas/_/N-18kf7bo?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003239",
+					"displayName": "Congelados de pollo",
+					"url": "/browse/catalogo-congelados-congelados-de-pollo/_/N-uh4qr?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003172",
+							"displayName": "Pollos",
+							"url": "/browse/catalogo-congelados-congelados-de-pollo-pollos/_/N-1azz6sk?"
+						},
+						{
+							"idCategoria": "catv00003228",
+							"displayName": "Rebozados de pollo",
+							"url": "/browse/catalogo-congelados-congelados-de-pollo-rebozados-de-pollo/_/N-1r0csyf?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003240",
+					"displayName": "Pescados y mariscos",
+					"url": "/browse/catalogo-congelados-pescados-y-mariscos/_/N-wgo47s?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003233",
+							"displayName": "Rebozados de pescado",
+							"url": "/browse/catalogo-congelados-pescados-y-mariscos-rebozados-de-pescado/_/N-baied5?"
+						},
+						{
+							"idCategoria": "catv00001466",
+							"displayName": "Filetes congelados",
+							"url": "/browse/catalogo-congelados-pescados-y-mariscos-filetes-congelados/_/N-1s7pm0l?"
+						},
+						{
+							"idCategoria": "catv00003759",
+							"displayName": "Souffle",
+							"url": "/browse/catalogo-congelados-pescados-y-mariscos-souffle/_/N-1fvvj1j?"
+						},
+						{
+							"idCategoria": "catv00003760",
+							"displayName": "Paella de mariscos",
+							"url": "/browse/catalogo-congelados-pescados-y-mariscos-paella-de-mariscos/_/N-f3rx7y?"
+						}
+					]
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001258",
+			"displayName": "Limpieza",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_limpieza",
+			"extension": ".png",
+			"url": "/browse/catalogo-limpieza/_/N-nityfw?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00002752",
+					"displayName": "Lavado",
+					"url": "/browse/catalogo-limpieza-lavado/_/N-t2y8zd?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003026",
+							"displayName": "Jabón liquido y en polvo",
+							"url": "/browse/catalogo-limpieza-lavado-jabón-liquido-y-en-polvo/_/N-czvkwo?"
+						},
+						{
+							"idCategoria": "catv00003027",
+							"displayName": "Enjuagues y suavizantes",
+							"url": "/browse/catalogo-limpieza-lavado-enjuagues-y-suavizantes/_/N-1l9ypk7?"
+						},
+						{
+							"idCategoria": "catv00002761",
+							"displayName": "Quitamanchas",
+							"url": "/browse/catalogo-limpieza-lavado-quitamanchas/_/N-1q5welz?"
+						},
+						{
+							"idCategoria": "catv00002760",
+							"displayName": "Prelavado",
+							"url": "/browse/catalogo-limpieza-lavado-prelavado/_/N-197xqfd?"
+						},
+						{
+							"idCategoria": "catv00002759",
+							"displayName": "Potenciador de aroma para el lavado ",
+							"url": "/browse/catalogo-limpieza-lavado-potenciador-de-aroma-para-el-lavado-/_/N-3y75qu?"
+						},
+						{
+							"idCategoria": "catv00002755",
+							"displayName": "Fragancias para la ropa",
+							"url": "/browse/catalogo-limpieza-lavado-fragancias-para-la-ropa/_/N-lvvk21?"
+						},
+						{
+							"idCategoria": "catv00002762",
+							"displayName": "Reforzador de lavado",
+							"url": "/browse/catalogo-limpieza-lavado-reforzador-de-lavado/_/N-13nwgdh?"
+						},
+						{
+							"idCategoria": "catv00002753",
+							"displayName": "Apresto",
+							"url": "/browse/catalogo-limpieza-lavado-apresto/_/N-wwjdbp?"
+						},
+						{
+							"idCategoria": "catv00002756",
+							"displayName": "Jabón en barra",
+							"url": "/browse/catalogo-limpieza-lavado-jabón-en-barra/_/N-10ujb3w?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003017",
+					"displayName": "Papeles",
+					"url": "/browse/catalogo-limpieza-papeles/_/N-ff27jr?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003018",
+							"displayName": "Papel higiénico",
+							"url": "/browse/catalogo-limpieza-papeles-papel-higiénico/_/N-q3aft3?"
+						},
+						{
+							"idCategoria": "catv00003019",
+							"displayName": "Pañuelos",
+							"url": "/browse/catalogo-limpieza-papeles-pañuelos/_/N-e09w4p?"
+						},
+						{
+							"idCategoria": "catv00003020",
+							"displayName": "Rollo de cocina",
+							"url": "/browse/catalogo-limpieza-papeles-rollo-de-cocina/_/N-nqp29s?"
+						},
+						{
+							"idCategoria": "catv00003021",
+							"displayName": "Servilletas",
+							"url": "/browse/catalogo-limpieza-papeles-servilletas/_/N-6wt7un?"
+						},
+						{
+							"idCategoria": "catv00003022",
+							"displayName": "Toallas humedas",
+							"url": "/browse/catalogo-limpieza-papeles-toallas-humedas/_/N-nh8w75?"
+						},
+						{
+							"idCategoria": "catv00003023",
+							"displayName": "Individuales",
+							"url": "/browse/catalogo-limpieza-papeles-individuales/_/N-p6mhvn?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003024",
+					"displayName": "Lavandina",
+					"url": "/browse/catalogo-limpieza-lavandina/_/N-cliwvx?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003131",
+							"displayName": "En gel",
+							"url": "/browse/catalogo-limpieza-lavandina-en-gel/_/N-11ewpk9?"
+						},
+						{
+							"idCategoria": "catv00003132",
+							"displayName": "Líquida",
+							"url": "/browse/catalogo-limpieza-lavandina-líquida/_/N-1divfu?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003025",
+					"displayName": "Insecticidas",
+					"url": "/browse/catalogo-limpieza-insecticidas/_/N-6bv3h3?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003028",
+							"displayName": "Cucarachas",
+							"url": "/browse/catalogo-limpieza-insecticidas-cucarachas/_/N-58w519?"
+						},
+						{
+							"idCategoria": "catv00003029",
+							"displayName": "Hormigas",
+							"url": "/browse/catalogo-limpieza-insecticidas-hormigas/_/N-oxhjb8?"
+						},
+						{
+							"idCategoria": "catv00003030",
+							"displayName": "Moscas y mosquitos",
+							"url": "/browse/catalogo-limpieza-insecticidas-moscas-y-mosquitos/_/N-h8e7x4?"
+						},
+						{
+							"idCategoria": "catv00003031",
+							"displayName": "Polillas",
+							"url": "/browse/catalogo-limpieza-insecticidas-polillas/_/N-zgucjf?"
+						},
+						{
+							"idCategoria": "catv00003032",
+							"displayName": "Pulgas y garrapatas",
+							"url": "/browse/catalogo-limpieza-insecticidas-pulgas-y-garrapatas/_/N-187ynx2?"
+						},
+						{
+							"idCategoria": "catv00003033",
+							"displayName": "Ratas",
+							"url": "/browse/catalogo-limpieza-insecticidas-ratas/_/N-1ifayyv?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003034",
+					"displayName": "Calzado",
+					"url": "/browse/catalogo-limpieza-calzado/_/N-1ap445v?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003089",
+							"displayName": "Cordones",
+							"url": "/browse/catalogo-limpieza-calzado-cordones/_/N-slugzb?"
+						},
+						{
+							"idCategoria": "catv00003090",
+							"displayName": "Pomada para zapatos",
+							"url": "/browse/catalogo-limpieza-calzado-pomada-para-zapatos/_/N-1ydjisr?"
+						},
+						{
+							"idCategoria": "catv00003091",
+							"displayName": "Cepillos de lustre",
+							"url": "/browse/catalogo-limpieza-calzado-cepillos-de-lustre/_/N-pkfmri?"
+						},
+						{
+							"idCategoria": "catv00003109",
+							"displayName": "Detergente para lavado",
+							"url": "/browse/catalogo-limpieza-calzado-detergente-para-lavado/_/N-11zuvwy?"
+						},
+						{
+							"idCategoria": "catv00003697",
+							"displayName": "Plantillas",
+							"url": "/browse/catalogo-limpieza-calzado-plantillas/_/N-12udz6o?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003035",
+					"displayName": "Accesorios de limpieza",
+					"url": "/browse/catalogo-limpieza-accesorios-de-limpieza/_/N-ohywgy?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003047",
+							"displayName": "Bolsas",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-bolsas/_/N-1mi0hxa?"
+						},
+						{
+							"idCategoria": "catv00003057",
+							"displayName": "Esponjas y guantes",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-esponjas-y-guantes/_/N-1g41bn1?"
+						},
+						{
+							"idCategoria": "catv00003060",
+							"displayName": "Palas y cabos",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-palas-y-cabos/_/N-1m10ot8?"
+						},
+						{
+							"idCategoria": "catv00003063",
+							"displayName": "Escobas y escobillones",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-escobas-y-escobillones/_/N-fi01jn?"
+						},
+						{
+							"idCategoria": "catv00003064",
+							"displayName": "Baldes y mopas",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-baldes-y-mopas/_/N-swby0r?"
+						},
+						{
+							"idCategoria": "catv00003067",
+							"displayName": "Broches",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-broches/_/N-yd4u3w?"
+						},
+						{
+							"idCategoria": "catv00003068",
+							"displayName": "Secadores y cepillos",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-secadores-y-cepillos/_/N-1d9t07u?"
+						},
+						{
+							"idCategoria": "catv00003072",
+							"displayName": "Trapo de pisos",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-trapo-de-pisos/_/N-u8udd8?"
+						},
+						{
+							"idCategoria": "catv00003108",
+							"displayName": "Plumeros",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-plumeros/_/N-1sppb5s?"
+						},
+						{
+							"idCategoria": "catv00003110",
+							"displayName": "Rejillas",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-rejillas/_/N-1f576bq?"
+						},
+						{
+							"idCategoria": "catv00003111",
+							"displayName": "Paños",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-paños/_/N-t9et5o?"
+						},
+						{
+							"idCategoria": "catv00003119",
+							"displayName": "Franelas",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-franelas/_/N-1trrk26?"
+						},
+						{
+							"idCategoria": "catv00003123",
+							"displayName": "Rodillo quita pelusas",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-rodillo-quita-pelusas/_/N-1rmk0wk?"
+						},
+						{
+							"idCategoria": "catv00003126",
+							"displayName": "Pasacera",
+							"url": "/browse/catalogo-limpieza-accesorios-de-limpieza-pasacera/_/N-t8utbx?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003036",
+					"displayName": "Desodorantes de ambiente",
+					"url": "/browse/catalogo-limpieza-desodorantes-de-ambiente/_/N-1annh67?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003046",
+							"displayName": "Antihumedad",
+							"url": "/browse/catalogo-limpieza-desodorantes-de-ambiente-antihumedad/_/N-1p1dutz?"
+						},
+						{
+							"idCategoria": "catv00003077",
+							"displayName": "Desinfectantes de ambiente",
+							"url": "/browse/catalogo-limpieza-desodorantes-de-ambiente-desinfectantes-de-ambiente/_/N-xwh0hg?"
+						},
+						{
+							"idCategoria": "catv00003096",
+							"displayName": "Aromatizantes de ambiente",
+							"url": "/browse/catalogo-limpieza-desodorantes-de-ambiente-aromatizantes-de-ambiente/_/N-woct0c?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003037",
+					"displayName": "Limpieza de baño",
+					"url": "/browse/catalogo-limpieza-limpieza-de-baño/_/N-pz78zm?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003081",
+							"displayName": "Desodorantes de inodoro",
+							"url": "/browse/catalogo-limpieza-limpieza-de-baño-desodorantes-de-inodoro/_/N-11pcucf?"
+						},
+						{
+							"idCategoria": "catv00003082",
+							"displayName": "Limpiadores de baño",
+							"url": "/browse/catalogo-limpieza-limpieza-de-baño-limpiadores-de-baño/_/N-1ncqzih?"
+						},
+						{
+							"idCategoria": "catv00003105",
+							"displayName": "Sopapas, escobillas y destapa cañerias",
+							"url": "/browse/catalogo-limpieza-limpieza-de-baño-sopapas-escobillas-y-destapa-cañerias/_/N-1ivwc35?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003038",
+					"displayName": "Limpieza de cocina",
+					"url": "/browse/catalogo-limpieza-limpieza-de-cocina/_/N-1lonain?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003043",
+							"displayName": "Detergentes",
+							"url": "/browse/catalogo-limpieza-limpieza-de-cocina-detergentes/_/N-bn6wsg?"
+						},
+						{
+							"idCategoria": "catv00003044",
+							"displayName": "Productos para lavavajillas",
+							"url": "/browse/catalogo-limpieza-limpieza-de-cocina-productos-para-lavavajillas/_/N-6ouiwd?"
+						},
+						{
+							"idCategoria": "catv00003045",
+							"displayName": "Fósforos",
+							"url": "/browse/catalogo-limpieza-limpieza-de-cocina-fósforos/_/N-yu9wsj?"
+						},
+						{
+							"idCategoria": "catv00003050",
+							"displayName": "Bolsas",
+							"url": "/browse/catalogo-limpieza-limpieza-de-cocina-bolsas/_/N-1fmnsdr?"
+						},
+						{
+							"idCategoria": "catv00003080",
+							"displayName": "Limpiadores de cocina",
+							"url": "/browse/catalogo-limpieza-limpieza-de-cocina-limpiadores-de-cocina/_/N-18huxwv?"
+						},
+						{
+							"idCategoria": "catv00003103",
+							"displayName": "Velas",
+							"url": "/browse/catalogo-limpieza-limpieza-de-cocina-velas/_/N-wim2nf?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003039",
+					"displayName": "Limpieza de pisos y superficies",
+					"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies/_/N-bf8h0x?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003040",
+							"displayName": "Ceras y autobrillos",
+							"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies-ceras-y-autobrillos/_/N-1ybw58?"
+						},
+						{
+							"idCategoria": "catv00003041",
+							"displayName": "Lustramuebles",
+							"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies-lustramuebles/_/N-qvb0m5?"
+						},
+						{
+							"idCategoria": "catv00003042",
+							"displayName": "Limpiadores de pisos y superficies",
+							"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies-limpiadores-de-pisos-y-superficies/_/N-zydh6h?"
+						},
+						{
+							"idCategoria": "catv00003118",
+							"displayName": "Curador para pisos",
+							"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies-curador-para-pisos/_/N-omxhe7?"
+						},
+						{
+							"idCategoria": "catv00003120",
+							"displayName": "Limpia metales",
+							"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies-limpia-metales/_/N-1akrma4?"
+						},
+						{
+							"idCategoria": "catv00003122",
+							"displayName": "Limpia vidrios",
+							"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies-limpia-vidrios/_/N-1tne7mi?"
+						},
+						{
+							"idCategoria": "catv00003128",
+							"displayName": "Superficies electrónicas",
+							"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies-superficies-electrónicas/_/N-1f1lor0?"
+						},
+						{
+							"idCategoria": "catv00003129",
+							"displayName": "Limpiadores desinfectantes",
+							"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies-limpiadores-desinfectantes/_/N-7p1jh0?"
+						},
+						{
+							"idCategoria": "catv00003130",
+							"displayName": "Limpiadores cremosos",
+							"url": "/browse/catalogo-limpieza-limpieza-de-pisos-y-superficies-limpiadores-cremosos/_/N-1t0ryc5?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002075",
+					"displayName": "Aromatizantes para ropa",
+					"url": "/browse/catalogo-limpieza-aromatizantes-para-ropa/_/N-28qylv?",
+					"secondLevelCategories": []
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001257",
+			"displayName": "Perfumería",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_perfumeria",
+			"extension": ".png",
+			"url": "/browse/catalogo-perfumería/_/N-cblpjz?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00001314",
+					"displayName": "Cuidado del cabello",
+					"url": "/browse/catalogo-perfumería-cuidado-del-cabello/_/N-1w8xczk?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001590",
+							"displayName": "Acondicionador",
+							"url": "/browse/catalogo-perfumería-cuidado-del-cabello-acondicionador/_/N-rnnevd?"
+						},
+						{
+							"idCategoria": "catv00001587",
+							"displayName": "Shampoo",
+							"url": "/browse/catalogo-perfumería-cuidado-del-cabello-shampoo/_/N-1p298nd?"
+						},
+						{
+							"idCategoria": "catv00001589",
+							"displayName": "Shampoo + acondicionador",
+							"url": "/browse/catalogo-perfumería-cuidado-del-cabello-shampoo-acondicionador/_/N-1emerpb?"
+						},
+						{
+							"idCategoria": "catv00002772",
+							"displayName": "Modeladores de peinado",
+							"url": "/browse/catalogo-perfumería-cuidado-del-cabello-modeladores-de-peinado/_/N-1rvt6wj?"
+						},
+						{
+							"idCategoria": "catv00003480",
+							"displayName": "Tratamientos",
+							"url": "/browse/catalogo-perfumería-cuidado-del-cabello-tratamientos/_/N-cssknn?"
+						},
+						{
+							"idCategoria": "catv00003481",
+							"displayName": "Coloración",
+							"url": "/browse/catalogo-perfumería-cuidado-del-cabello-coloración/_/N-q2suxp?"
+						},
+						{
+							"idCategoria": "catv00003517",
+							"displayName": "Mix promocional",
+							"url": "/browse/catalogo-perfumería-cuidado-del-cabello-mix-promocional/_/N-jzlfkr?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001312",
+					"displayName": "Higiene personal",
+					"url": "/browse/catalogo-perfumería-higiene-personal/_/N-721a4h?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001573",
+							"displayName": "Accesorios de ducha",
+							"url": "/browse/catalogo-perfumería-higiene-personal-accesorios-de-ducha/_/N-16bnrdm?"
+						},
+						{
+							"idCategoria": "catv00001576",
+							"displayName": "Jabones",
+							"url": "/browse/catalogo-perfumería-higiene-personal-jabones/_/N-1avz0x?"
+						},
+						{
+							"idCategoria": "catv00001574",
+							"displayName": "Sales y espumas de baño",
+							"url": "/browse/catalogo-perfumería-higiene-personal-sales-y-espumas-de-baño/_/N-1xqyu7v?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001315",
+					"displayName": "Desodorantes y antitranspirantes",
+					"url": "/browse/catalogo-perfumería-desodorantes-y-antitranspirantes/_/N-2f9qa1?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003497",
+							"displayName": "Desodorantes",
+							"url": "/browse/catalogo-perfumería-desodorantes-y-antitranspirantes-desodorantes/_/N-zo6e6j?"
+						},
+						{
+							"idCategoria": "catv00003498",
+							"displayName": "Antitranspirantes",
+							"url": "/browse/catalogo-perfumería-desodorantes-y-antitranspirantes-antitranspirantes/_/N-13rtyoh?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003485",
+					"displayName": "Pañales y productos para incontinencia",
+					"url": "/browse/catalogo-perfumería-pañales-y-productos-para-incontinencia/_/N-1a8xcmp?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003488",
+							"displayName": "Pañales para bebé",
+							"url": "/browse/catalogo-perfumería-pañales-y-productos-para-incontinencia-pañales-para-bebé/_/N-fmf3uu?"
+						},
+						{
+							"idCategoria": "catv00003489",
+							"displayName": "Pañales para adultos",
+							"url": "/browse/catalogo-perfumería-pañales-y-productos-para-incontinencia-pañales-para-adultos/_/N-job5eb?"
+						},
+						{
+							"idCategoria": "catv00003490",
+							"displayName": "Productos para incontinencia",
+							"url": "/browse/catalogo-perfumería-pañales-y-productos-para-incontinencia-productos-para-incontinencia/_/N-g9bsvh?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001302",
+					"displayName": "Cuidado personal",
+					"url": "/browse/catalogo-perfumería-cuidado-personal/_/N-sstxyh?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001548",
+							"displayName": "Afeitado",
+							"url": "/browse/catalogo-perfumería-cuidado-personal-afeitado/_/N-g0o8a0?"
+						},
+						{
+							"idCategoria": "catv00001547",
+							"displayName": "Depilación",
+							"url": "/browse/catalogo-perfumería-cuidado-personal-depilación/_/N-owp2s8?"
+						},
+						{
+							"idCategoria": "catv00001546",
+							"displayName": "Recortadores",
+							"url": "/browse/catalogo-perfumería-cuidado-personal-recortadores/_/N-11u19xg?"
+						},
+						{
+							"idCategoria": "catv00002626",
+							"displayName": "Higiene y cuidado de la barba",
+							"url": "/browse/catalogo-perfumería-cuidado-personal-higiene-y-cuidado-de-la-barba/_/N-12a3nhp?"
+						},
+						{
+							"idCategoria": "catv00002627",
+							"displayName": "Modeladores de peinado",
+							"url": "/browse/catalogo-perfumería-cuidado-personal-modeladores-de-peinado/_/N-pxr3yj?"
+						},
+						{
+							"idCategoria": "catv00002628",
+							"displayName": "Pre afeitado",
+							"url": "/browse/catalogo-perfumería-cuidado-personal-pre-afeitado/_/N-1o49kfe?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003503",
+					"displayName": "Cuidado bucal",
+					"url": "/browse/catalogo-perfumería-cuidado-bucal/_/N-iak9sv?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003504",
+							"displayName": "Accesorios de prótesis y ortodoncia",
+							"url": "/browse/catalogo-perfumería-cuidado-bucal-accesorios-de-prótesis-y-ortodoncia/_/N-plotq5?"
+						},
+						{
+							"idCategoria": "catv00003505",
+							"displayName": "Antiséptico bucal",
+							"url": "/browse/catalogo-perfumería-cuidado-bucal-antiséptico-bucal/_/N-nbjoae?"
+						},
+						{
+							"idCategoria": "catv00003507",
+							"displayName": "Cepillos dentales",
+							"url": "/browse/catalogo-perfumería-cuidado-bucal-cepillos-dentales/_/N-167lhyp?"
+						},
+						{
+							"idCategoria": "catv00003508",
+							"displayName": "Cremas dentales",
+							"url": "/browse/catalogo-perfumería-cuidado-bucal-cremas-dentales/_/N-18tmw6z?"
+						},
+						{
+							"idCategoria": "catv00003509",
+							"displayName": "Hilos dentales",
+							"url": "/browse/catalogo-perfumería-cuidado-bucal-hilos-dentales/_/N-urrvs8?"
+						},
+						{
+							"idCategoria": "catv00003510",
+							"displayName": "Kit dental",
+							"url": "/browse/catalogo-perfumería-cuidado-bucal-kit-dental/_/N-1mlbbdd?"
+						},
+						{
+							"idCategoria": "catv00003511",
+							"displayName": "Tiras blanqueadoras",
+							"url": "/browse/catalogo-perfumería-cuidado-bucal-tiras-blanqueadoras/_/N-16ia3en?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001307",
+					"displayName": "Protección femenina",
+					"url": "/browse/catalogo-perfumería-protección-femenina/_/N-1csoql4?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003493",
+							"displayName": "Apositos post parto",
+							"url": "/browse/catalogo-perfumería-protección-femenina-apositos-post-parto/_/N-cyq3pb?"
+						},
+						{
+							"idCategoria": "catv00003494",
+							"displayName": "Protectores diarios",
+							"url": "/browse/catalogo-perfumería-protección-femenina-protectores-diarios/_/N-lemnn9?"
+						},
+						{
+							"idCategoria": "catv00003495",
+							"displayName": "Tampones",
+							"url": "/browse/catalogo-perfumería-protección-femenina-tampones/_/N-14kauci?"
+						},
+						{
+							"idCategoria": "catv00003496",
+							"displayName": "Toallitas",
+							"url": "/browse/catalogo-perfumería-protección-femenina-toallitas/_/N-193l6u8?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001310",
+					"displayName": "Cremas de belleza",
+					"url": "/browse/catalogo-perfumería-cremas-de-belleza/_/N-jpga0a?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001564",
+							"displayName": "Cremas corporales",
+							"url": "/browse/catalogo-perfumería-cremas-de-belleza-cremas-corporales/_/N-1hr0q1h?"
+						},
+						{
+							"idCategoria": "catv00001563",
+							"displayName": "Cremas de manos y pies",
+							"url": "/browse/catalogo-perfumería-cremas-de-belleza-cremas-de-manos-y-pies/_/N-1cmf9q1?"
+						},
+						{
+							"idCategoria": "catv00001562",
+							"displayName": "Cuidado facial",
+							"url": "/browse/catalogo-perfumería-cremas-de-belleza-cuidado-facial/_/N-1kqfutk?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003512",
+					"displayName": "Cuidado de la piel",
+					"url": "/browse/catalogo-perfumería-cuidado-de-la-piel/_/N-7d4hhu?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003513",
+							"displayName": "Bronceador",
+							"url": "/browse/catalogo-perfumería-cuidado-de-la-piel-bronceador/_/N-h5e1w7?"
+						},
+						{
+							"idCategoria": "catv00003514",
+							"displayName": "Locion",
+							"url": "/browse/catalogo-perfumería-cuidado-de-la-piel-locion/_/N-1fyhnyj?"
+						},
+						{
+							"idCategoria": "catv00003515",
+							"displayName": "Post solar",
+							"url": "/browse/catalogo-perfumería-cuidado-de-la-piel-post-solar/_/N-10rvfgq?"
+						},
+						{
+							"idCategoria": "catv00003516",
+							"displayName": "Protector solar",
+							"url": "/browse/catalogo-perfumería-cuidado-de-la-piel-protector-solar/_/N-1ay3kpp?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001306",
+					"displayName": "Accesorios",
+					"url": "/browse/catalogo-perfumería-accesorios/_/N-14mninw?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001558",
+							"displayName": "Accesorios femeninos",
+							"url": "/browse/catalogo-perfumería-accesorios-accesorios-femeninos/_/N-ewvdsf?"
+						},
+						{
+							"idCategoria": "catv00001553",
+							"displayName": "Accesorios para uñas y pies",
+							"url": "/browse/catalogo-perfumería-accesorios-accesorios-para-uñas-y-pies/_/N-1j9bgqs?"
+						},
+						{
+							"idCategoria": "catv00001555",
+							"displayName": "Elementos para el cabello",
+							"url": "/browse/catalogo-perfumería-accesorios-elementos-para-el-cabello/_/N-1glw96c?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001313",
+					"displayName": "Cuidado del bebé y la mamá",
+					"url": "/browse/catalogo-perfumería-cuidado-del-bebé-y-la-mamá/_/N-1c9xpsw?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001585",
+							"displayName": "Cuidado infantil",
+							"url": "/browse/catalogo-perfumería-cuidado-del-bebé-y-la-mamá-cuidado-infantil/_/N-chwe2k?"
+						},
+						{
+							"idCategoria": "catv00001781",
+							"displayName": "Momentos del bebé",
+							"url": "/browse/catalogo-perfumería-cuidado-del-bebé-y-la-mamá-momentos-del-bebé/_/N-1622ivo?"
+						},
+						{
+							"idCategoria": "catv00001583",
+							"displayName": "Puerperio",
+							"url": "/browse/catalogo-perfumería-cuidado-del-bebé-y-la-mamá-puerperio/_/N-1kwyaph?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001309",
+					"displayName": "Farmacia",
+					"url": "/browse/catalogo-perfumería-farmacia/_/N-hooak?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003442",
+							"displayName": "Profilaxis",
+							"url": "/browse/catalogo-perfumería-farmacia-profilaxis/_/N-1dst0e3?"
+						},
+						{
+							"idCategoria": "catv00003443",
+							"displayName": "Geles intimos",
+							"url": "/browse/catalogo-perfumería-farmacia-geles-intimos/_/N-1qdn21g?"
+						},
+						{
+							"idCategoria": "catv00003444",
+							"displayName": "Repelente",
+							"url": "/browse/catalogo-perfumería-farmacia-repelente/_/N-34fa3f?"
+						},
+						{
+							"idCategoria": "catv00003445",
+							"displayName": "Seca esmalte",
+							"url": "/browse/catalogo-perfumería-farmacia-seca-esmalte/_/N-1fnleey?"
+						},
+						{
+							"idCategoria": "catv00003446",
+							"displayName": "Apositos",
+							"url": "/browse/catalogo-perfumería-farmacia-apositos/_/N-1wshiwc?"
+						},
+						{
+							"idCategoria": "catv00003447",
+							"displayName": "Hisopos",
+							"url": "/browse/catalogo-perfumería-farmacia-hisopos/_/N-ms1e1l?"
+						},
+						{
+							"idCategoria": "catv00003448",
+							"displayName": "Anticeptico",
+							"url": "/browse/catalogo-perfumería-farmacia-anticeptico/_/N-jjqers?"
+						},
+						{
+							"idCategoria": "catv00003452",
+							"displayName": "Algodón",
+							"url": "/browse/catalogo-perfumería-farmacia-algodón/_/N-98pzwu?"
+						},
+						{
+							"idCategoria": "catv00003453",
+							"displayName": "Protectores labiales",
+							"url": "/browse/catalogo-perfumería-farmacia-protectores-labiales/_/N-1o7seoc?"
+						},
+						{
+							"idCategoria": "catv00003455",
+							"displayName": "Quitaesmaltes",
+							"url": "/browse/catalogo-perfumería-farmacia-quitaesmaltes/_/N-d8t057?"
+						},
+						{
+							"idCategoria": "catv00001316",
+							"displayName": "Desodorantes pédicos",
+							"url": "/browse/catalogo-perfumería-farmacia-desodorantes-pédicos/_/N-r7bp8d?"
+						},
+						{
+							"idCategoria": "catv00003486",
+							"displayName": "Talco corporal",
+							"url": "/browse/catalogo-perfumería-farmacia-talco-corporal/_/N-zwsnv1?"
+						},
+						{
+							"idCategoria": "catv00003487",
+							"displayName": "Tiras nasales",
+							"url": "/browse/catalogo-perfumería-farmacia-tiras-nasales/_/N-hldf02?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001311",
+					"displayName": "Colonias y perfumes",
+					"url": "/browse/catalogo-perfumería-colonias-y-perfumes/_/N-6hnf6f?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001569",
+							"displayName": "Colonias femeninas",
+							"url": "/browse/catalogo-perfumería-colonias-y-perfumes-colonias-femeninas/_/N-12dx58o?"
+						},
+						{
+							"idCategoria": "catv00001570",
+							"displayName": "Colonias masculinas",
+							"url": "/browse/catalogo-perfumería-colonias-y-perfumes-colonias-masculinas/_/N-15ooa4q?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001308",
+					"displayName": "Cosméticos",
+					"url": "/browse/catalogo-perfumería-cosméticos/_/N-85l8um?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003451",
+							"displayName": "Accesorios femeninos",
+							"url": "/browse/catalogo-perfumería-cosméticos-accesorios-femeninos/_/N-13odbqk?"
+						},
+						{
+							"idCategoria": "catv00003470",
+							"displayName": "Desmaquilladores",
+							"url": "/browse/catalogo-perfumería-cosméticos-desmaquilladores/_/N-1o2pbu9?"
+						},
+						{
+							"idCategoria": "catv00003471",
+							"displayName": "Esmalte de uñas",
+							"url": "/browse/catalogo-perfumería-cosméticos-esmalte-de-uñas/_/N-1hnwshn?"
+						},
+						{
+							"idCategoria": "catv00003472",
+							"displayName": "Maquillaje",
+							"url": "/browse/catalogo-perfumería-cosméticos-maquillaje/_/N-xwicmh?"
+						},
+						{
+							"idCategoria": "catv00003474",
+							"displayName": "Polvo compacto",
+							"url": "/browse/catalogo-perfumería-cosméticos-polvo-compacto/_/N-1774r28?"
+						},
+						{
+							"idCategoria": "catv00003475",
+							"displayName": "Tónico facial",
+							"url": "/browse/catalogo-perfumería-cosméticos-tónico-facial/_/N-1ch7r89?"
+						}
+					]
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001990",
+			"displayName": "Electro",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_electro",
+			"extension": ".png",
+			"url": "/browse/catalogo-electro/_/N-1ngpk59?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00001993",
+					"displayName": "Tv y video",
+					"url": "/browse/catalogo-electro-tv-y-video/_/N-1syg2lk?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000576",
+							"displayName": "Tv led y smart tv",
+							"url": "/browse/catalogo-electro-tv-y-video-tv-led-y-smart-tv/_/N-1afnz85?"
+						},
+						{
+							"idCategoria": "catv00000581",
+							"displayName": "Soportes",
+							"url": "/browse/catalogo-electro-tv-y-video-soportes/_/N-1uufv93?"
+						},
+						{
+							"idCategoria": "catv00000580",
+							"displayName": "Control remoto y antenas",
+							"url": "/browse/catalogo-electro-tv-y-video-control-remoto-y-antenas/_/N-wuujyf?"
+						},
+						{
+							"idCategoria": "catv00000579",
+							"displayName": "Video",
+							"url": "/browse/catalogo-electro-tv-y-video-video/_/N-1046mok?"
+						},
+						{
+							"idCategoria": "catv00002181",
+							"displayName": "Cables",
+							"url": "/browse/catalogo-electro-tv-y-video-cables/_/N-sm74kf?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001994",
+					"displayName": "Informatica",
+					"url": "/browse/catalogo-electro-informatica/_/N-u4pa0j?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000597",
+							"displayName": "Tablet",
+							"url": "/browse/catalogo-electro-informatica-tablet/_/N-1ks8a0q?"
+						},
+						{
+							"idCategoria": "catv00000598",
+							"displayName": "Notebooks y computadoras",
+							"url": "/browse/catalogo-electro-informatica-notebooks-y-computadoras/_/N-1azsmzf?"
+						},
+						{
+							"idCategoria": "catv00000603",
+							"displayName": "Impresoras y cartuchos",
+							"url": "/browse/catalogo-electro-informatica-impresoras-y-cartuchos/_/N-ra93jv?"
+						},
+						{
+							"idCategoria": "catv00002067",
+							"displayName": "Mouse y teclados",
+							"url": "/browse/catalogo-electro-informatica-mouse-y-teclados/_/N-1mpzvhq?"
+						},
+						{
+							"idCategoria": "catv00000602",
+							"displayName": "Monitores",
+							"url": "/browse/catalogo-electro-informatica-monitores/_/N-kq47d1?"
+						},
+						{
+							"idCategoria": "catv00000605",
+							"displayName": "Cámaras digitales",
+							"url": "/browse/catalogo-electro-informatica-cámaras-digitales/_/N-106p2pi?"
+						},
+						{
+							"idCategoria": "catv00000606",
+							"displayName": "Accesorios",
+							"url": "/browse/catalogo-electro-informatica-accesorios/_/N-p5bnqe?"
+						},
+						{
+							"idCategoria": "catv00000713",
+							"displayName": "Gps",
+							"url": "/browse/catalogo-electro-informatica-gps/_/N-yyiv21?"
+						},
+						{
+							"idCategoria": "catv00002182",
+							"displayName": "Discos externos",
+							"url": "/browse/catalogo-electro-informatica-discos-externos/_/N-1iq5ny6?"
+						},
+						{
+							"idCategoria": "catv00002190",
+							"displayName": "Software",
+							"url": "/browse/catalogo-electro-informatica-software/_/N-1an83sc?"
+						},
+						{
+							"idCategoria": "catv00002192",
+							"displayName": "Smart watch",
+							"url": "/browse/catalogo-electro-informatica-smart-watch/_/N-nd2v8j?"
+						},
+						{
+							"idCategoria": "catv00002204",
+							"displayName": "Reproductores de música",
+							"url": "/browse/catalogo-electro-informatica-reproductores-de-música/_/N-etjqxh?"
+						},
+						{
+							"idCategoria": "catv00002597",
+							"displayName": "Cámaras instantáneas",
+							"url": "/browse/catalogo-electro-informatica-cámaras-instantáneas/_/N-1k05f3c?"
+						},
+						{
+							"idCategoria": "catv00001997",
+							"displayName": "Video juegos",
+							"url": "/browse/catalogo-electro-informatica-video-juegos/_/N-12auumo?"
+						},
+						{
+							"idCategoria": "catv00002776",
+							"displayName": "Cables",
+							"url": "/browse/catalogo-electro-informatica-cables/_/N-14zga0h?"
+						},
+						{
+							"idCategoria": "catv00002776",
+							"displayName": "Cables",
+							"url": "/browse/catalogo-electro-informatica-cables/_/N-14zga0h?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001995",
+					"displayName": "Celulares y telefonia",
+					"url": "/browse/catalogo-electro-celulares-y-telefonia/_/N-5lw52q?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000704",
+							"displayName": "Celulares liberados",
+							"url": "/browse/catalogo-electro-celulares-y-telefonia-celulares-liberados/_/N-1n5p463?"
+						},
+						{
+							"idCategoria": "catv00002183",
+							"displayName": "Micro sd",
+							"url": "/browse/catalogo-electro-celulares-y-telefonia-micro-sd/_/N-nutl3g?"
+						},
+						{
+							"idCategoria": "catv00002199",
+							"displayName": "Cargadores portatiles",
+							"url": "/browse/catalogo-electro-celulares-y-telefonia-cargadores-portatiles/_/N-p6lwot?"
+						},
+						{
+							"idCategoria": "catv00000604",
+							"displayName": "Telefonos inalambricos / escritorio",
+							"url": "/browse/catalogo-electro-celulares-y-telefonia-telefonos-inalambricos-escritorio/_/N-vu5pnk?"
+						},
+						{
+							"idCategoria": "catv00002195",
+							"displayName": "Accesorios para celular",
+							"url": "/browse/catalogo-electro-celulares-y-telefonia-accesorios-para-celular/_/N-bpnjwq?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001996",
+					"displayName": "Audio",
+					"url": "/browse/catalogo-electro-audio/_/N-qbibbm?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000610",
+							"displayName": "Equipos audio",
+							"url": "/browse/catalogo-electro-audio-equipos-audio/_/N-1vf6t31?"
+						},
+						{
+							"idCategoria": "catv00000712",
+							"displayName": "Home theater",
+							"url": "/browse/catalogo-electro-audio-home-theater/_/N-14quga7?"
+						},
+						{
+							"idCategoria": "catv00000612",
+							"displayName": "Auriculares",
+							"url": "/browse/catalogo-electro-audio-auriculares/_/N-1kgpydr?"
+						},
+						{
+							"idCategoria": "catv00000611",
+							"displayName": "Audio para autos",
+							"url": "/browse/catalogo-electro-audio-audio-para-autos/_/N-1oucbva?"
+						},
+						{
+							"idCategoria": "catv00002191",
+							"displayName": "Parlantes para pc",
+							"url": "/browse/catalogo-electro-audio-parlantes-para-pc/_/N-173kkgp?"
+						},
+						{
+							"idCategoria": "catv00002193",
+							"displayName": "Parlantes portatiles",
+							"url": "/browse/catalogo-electro-audio-parlantes-portatiles/_/N-v4ub1g?"
+						},
+						{
+							"idCategoria": "catv00002596",
+							"displayName": "Radios y despertadores",
+							"url": "/browse/catalogo-electro-audio-radios-y-despertadores/_/N-10szfce?"
+						},
+						{
+							"idCategoria": "catv00003520",
+							"displayName": "Microfono",
+							"url": "/browse/catalogo-electro-audio-microfono/_/N-deiaik?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001998",
+					"displayName": "Heladeras y freezer",
+					"url": "/browse/catalogo-electro-heladeras-y-freezer/_/N-jlabrw?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000625",
+							"displayName": "Heladeras 1 frio / cavas",
+							"url": "/browse/catalogo-electro-heladeras-y-freezer-heladeras-1-frio-cavas/_/N-jmu0ax?"
+						},
+						{
+							"idCategoria": "catv00000627",
+							"displayName": "Heladeras c/ freezer",
+							"url": "/browse/catalogo-electro-heladeras-y-freezer-heladeras-c-freezer/_/N-1o7k41g?"
+						},
+						{
+							"idCategoria": "catv00000626",
+							"displayName": "No frost / side by side",
+							"url": "/browse/catalogo-electro-heladeras-y-freezer-no-frost-side-by-side/_/N-3m1agd?"
+						},
+						{
+							"idCategoria": "catv00000629",
+							"displayName": "Freezer y exhibidores",
+							"url": "/browse/catalogo-electro-heladeras-y-freezer-freezer-y-exhibidores/_/N-1umk3mv?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001999",
+					"displayName": "Lavado y secado",
+					"url": "/browse/catalogo-electro-lavado-y-secado/_/N-2noymp?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000632",
+							"displayName": "Lavarropas",
+							"url": "/browse/catalogo-electro-lavado-y-secado-lavarropas/_/N-1pdaa1n?"
+						},
+						{
+							"idCategoria": "catv00000633",
+							"displayName": "Lavavajillas",
+							"url": "/browse/catalogo-electro-lavado-y-secado-lavavajillas/_/N-1mwy5ad?"
+						},
+						{
+							"idCategoria": "catv00000634",
+							"displayName": "Secarropas",
+							"url": "/browse/catalogo-electro-lavado-y-secado-secarropas/_/N-1l6qf0t?"
+						},
+						{
+							"idCategoria": "catv00002452",
+							"displayName": "Lavasecarropas",
+							"url": "/browse/catalogo-electro-lavado-y-secado-lavasecarropas/_/N-4178hk?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002000",
+					"displayName": "Climatizacion",
+					"url": "/browse/catalogo-electro-climatizacion/_/N-1juotyj?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002348",
+							"displayName": "Aires acondicionados",
+							"url": "/browse/catalogo-electro-climatizacion-aires-acondicionados/_/N-t4fw8g?"
+						},
+						{
+							"idCategoria": "catv00000621",
+							"displayName": "Ventiladores",
+							"url": "/browse/catalogo-electro-climatizacion-ventiladores/_/N-f80o10?"
+						},
+						{
+							"idCategoria": "catv00000623",
+							"displayName": "Calefaccion a gas",
+							"url": "/browse/catalogo-electro-climatizacion-calefaccion-a-gas/_/N-y5rem9?"
+						},
+						{
+							"idCategoria": "catv00000622",
+							"displayName": "Calefaccion electrica",
+							"url": "/browse/catalogo-electro-climatizacion-calefaccion-electrica/_/N-w4ho4a?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002001",
+					"displayName": "Calefones y termotanques",
+					"url": "/browse/catalogo-electro-calefones-y-termotanques/_/N-z3yez8?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000636",
+							"displayName": "Calefones",
+							"url": "/browse/catalogo-electro-calefones-y-termotanques-calefones/_/N-1pg8wih?"
+						},
+						{
+							"idCategoria": "catv00000637",
+							"displayName": "Termotanques",
+							"url": "/browse/catalogo-electro-calefones-y-termotanques-termotanques/_/N-1nu4273?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002002",
+					"displayName": "Coccion",
+					"url": "/browse/catalogo-electro-coccion/_/N-jrvzts?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000639",
+							"displayName": "Cocinas",
+							"url": "/browse/catalogo-electro-coccion-cocinas/_/N-qlnpwd?"
+						},
+						{
+							"idCategoria": "catv00000644",
+							"displayName": "Microondas",
+							"url": "/browse/catalogo-electro-coccion-microondas/_/N-14a6a9x?"
+						},
+						{
+							"idCategoria": "catv00000640",
+							"displayName": "Hornos electricos",
+							"url": "/browse/catalogo-electro-coccion-hornos-electricos/_/N-1ubbnzk?"
+						},
+						{
+							"idCategoria": "catv00000641",
+							"displayName": "Anafes",
+							"url": "/browse/catalogo-electro-coccion-anafes/_/N-949wob?"
+						},
+						{
+							"idCategoria": "catv00000642",
+							"displayName": "Extractores / purificadores",
+							"url": "/browse/catalogo-electro-coccion-extractores-purificadores/_/N-7tzpwx?"
+						},
+						{
+							"idCategoria": "catv00000643",
+							"displayName": "Campanas",
+							"url": "/browse/catalogo-electro-coccion-campanas/_/N-2jxsoq?"
+						},
+						{
+							"idCategoria": "catv00000645",
+							"displayName": "Parrillas electricas",
+							"url": "/browse/catalogo-electro-coccion-parrillas-electricas/_/N-okgb7v?"
+						},
+						{
+							"idCategoria": "catv00002774",
+							"displayName": "Grill eléctrico",
+							"url": "/browse/catalogo-electro-coccion-grill-eléctrico/_/N-mwi9kw?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002003",
+					"displayName": "Ayudantes de cocina",
+					"url": "/browse/catalogo-electro-ayudantes-de-cocina/_/N-4oz7tb?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000666",
+							"displayName": "Batidoras",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-batidoras/_/N-oty0vp?"
+						},
+						{
+							"idCategoria": "catv00000667",
+							"displayName": "Procesadoras",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-procesadoras/_/N-1r3yzy8?"
+						},
+						{
+							"idCategoria": "catv00000668",
+							"displayName": "Balanzas de cocina",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-balanzas-de-cocina/_/N-1d5junm?"
+						},
+						{
+							"idCategoria": "catv00000669",
+							"displayName": "Mixer",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-mixer/_/N-11kgrk5?"
+						},
+						{
+							"idCategoria": "catv00000671",
+							"displayName": "Fabrica de pastas",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-fabrica-de-pastas/_/N-au6toy?"
+						},
+						{
+							"idCategoria": "catv00000672",
+							"displayName": "Maquinas de pan",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-maquinas-de-pan/_/N-1ww751k?"
+						},
+						{
+							"idCategoria": "catv00000670",
+							"displayName": "Arroceras",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-arroceras/_/N-1v1xtzr?"
+						},
+						{
+							"idCategoria": "catv00000673",
+							"displayName": "Picadoras",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-picadoras/_/N-1tjote6?"
+						},
+						{
+							"idCategoria": "catv00000677",
+							"displayName": "Cortadoras de fiambre",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-cortadoras-de-fiambre/_/N-1g1uk3y?"
+						},
+						{
+							"idCategoria": "catv00000674",
+							"displayName": "Rebanadoras de verdura",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-rebanadoras-de-verdura/_/N-1gy2i40?"
+						},
+						{
+							"idCategoria": "catv00000676",
+							"displayName": "Cuchillos electricos",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-cuchillos-electricos/_/N-cnmd3f?"
+						},
+						{
+							"idCategoria": "catv00000675",
+							"displayName": "Yogurteras",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-yogurteras/_/N-1o38arw?"
+						},
+						{
+							"idCategoria": "catv00000646",
+							"displayName": "Sartenes electricos",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-sartenes-electricos/_/N-1bko67l?"
+						},
+						{
+							"idCategoria": "catv00000647",
+							"displayName": "Freidoras",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-freidoras/_/N-181vhmn?"
+						},
+						{
+							"idCategoria": "catv00000649",
+							"displayName": "Vaporieras",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-vaporieras/_/N-hlbu72?"
+						},
+						{
+							"idCategoria": "catv00000648",
+							"displayName": "Ollas electricas",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-ollas-electricas/_/N-vgxjji?"
+						},
+						{
+							"idCategoria": "catv00002038",
+							"displayName": "Pochoclera",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-pochoclera/_/N-o17af6?"
+						},
+						{
+							"idCategoria": "catv00002516",
+							"displayName": "Fabricas de helados",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-fabricas-de-helados/_/N-92ea7s?"
+						},
+						{
+							"idCategoria": "catv00002735",
+							"displayName": "Fabricas de postres",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-fabricas-de-postres/_/N-e0gxym?"
+						},
+						{
+							"idCategoria": "catv00002750",
+							"displayName": "Afilador",
+							"url": "/browse/catalogo-electro-ayudantes-de-cocina-afilador/_/N-ir1bgg?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002004",
+					"displayName": "Desayuno",
+					"url": "/browse/catalogo-electro-desayuno/_/N-otc2fp?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000686",
+							"displayName": "Cafeteras",
+							"url": "/browse/catalogo-electro-desayuno-cafeteras/_/N-1ipu5rp?"
+						},
+						{
+							"idCategoria": "catv00000687",
+							"displayName": "Exprimidores",
+							"url": "/browse/catalogo-electro-desayuno-exprimidores/_/N-15bimtg?"
+						},
+						{
+							"idCategoria": "catv00000688",
+							"displayName": "Pavas electricas",
+							"url": "/browse/catalogo-electro-desayuno-pavas-electricas/_/N-1dznkpg?"
+						},
+						{
+							"idCategoria": "catv00000689",
+							"displayName": "Jugueras",
+							"url": "/browse/catalogo-electro-desayuno-jugueras/_/N-1kv0hd4?"
+						},
+						{
+							"idCategoria": "catv00000690",
+							"displayName": "Licuadoras",
+							"url": "/browse/catalogo-electro-desayuno-licuadoras/_/N-70zfla?"
+						},
+						{
+							"idCategoria": "catv00000691",
+							"displayName": "Molinillos de cafe",
+							"url": "/browse/catalogo-electro-desayuno-molinillos-de-cafe/_/N-w2g83a?"
+						},
+						{
+							"idCategoria": "catv00000693",
+							"displayName": "Tostadoras",
+							"url": "/browse/catalogo-electro-desayuno-tostadoras/_/N-20teay?"
+						},
+						{
+							"idCategoria": "catv00000692",
+							"displayName": "Sandwicheras",
+							"url": "/browse/catalogo-electro-desayuno-sandwicheras/_/N-1x3na6s?"
+						},
+						{
+							"idCategoria": "catv00000708",
+							"displayName": "Espumador de leche",
+							"url": "/browse/catalogo-electro-desayuno-espumador-de-leche/_/N-14bo6eo?"
+						},
+						{
+							"idCategoria": "catv00002255",
+							"displayName": "Waflera",
+							"url": "/browse/catalogo-electro-desayuno-waflera/_/N-vt407l?"
+						},
+						{
+							"idCategoria": "catv00002515",
+							"displayName": "Yogurteras",
+							"url": "/browse/catalogo-electro-desayuno-yogurteras/_/N-536ty?"
+						},
+						{
+							"idCategoria": "catv00002736",
+							"displayName": "Panquequeras",
+							"url": "/browse/catalogo-electro-desayuno-panquequeras/_/N-1xfa5ap?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002005",
+					"displayName": "Hogar",
+					"url": "/browse/catalogo-electro-hogar/_/N-12egc3n?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000653",
+							"displayName": "Barrealfombras",
+							"url": "/browse/catalogo-electro-hogar-barrealfombras/_/N-1gb7b5q?"
+						},
+						{
+							"idCategoria": "catv00000663",
+							"displayName": "Planchas a vapor",
+							"url": "/browse/catalogo-electro-hogar-planchas-a-vapor/_/N-7w1a75?"
+						},
+						{
+							"idCategoria": "catv00000664",
+							"displayName": "Planchas secas",
+							"url": "/browse/catalogo-electro-hogar-planchas-secas/_/N-rliznp?"
+						},
+						{
+							"idCategoria": "catv00000707",
+							"displayName": "Maquinas de coser",
+							"url": "/browse/catalogo-electro-hogar-maquinas-de-coser/_/N-tjhtln?"
+						},
+						{
+							"idCategoria": "catv00003436",
+							"displayName": "Aspiradoras y lustraspiradoras",
+							"url": "/browse/catalogo-electro-hogar-aspiradoras-y-lustraspiradoras/_/N-1gnqtqw?"
+						},
+						{
+							"idCategoria": "catv00003765",
+							"displayName": "Toalleros eléctricos",
+							"url": "/browse/catalogo-electro-hogar-toalleros-eléctricos/_/N-od1o4r?"
+						},
+						{
+							"idCategoria": "catv00003999",
+							"displayName": "Balanzas de equipaje",
+							"url": "/browse/catalogo-electro-hogar-balanzas-de-equipaje/_/N-1lgx5dd?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002006",
+					"displayName": "Salud y bienestar",
+					"url": "/browse/catalogo-electro-salud-y-bienestar/_/N-1shmelh?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00000661",
+							"displayName": "Balanzas de baño",
+							"url": "/browse/catalogo-electro-salud-y-bienestar-balanzas-de-baño/_/N-kw0b3s?"
+						},
+						{
+							"idCategoria": "catv00000662",
+							"displayName": "Tensiometros",
+							"url": "/browse/catalogo-electro-salud-y-bienestar-tensiometros/_/N-17kplju?"
+						},
+						{
+							"idCategoria": "catv00000678",
+							"displayName": "Nebulizadores",
+							"url": "/browse/catalogo-electro-salud-y-bienestar-nebulizadores/_/N-hvl8so?"
+						},
+						{
+							"idCategoria": "catv00000679",
+							"displayName": "Almohadillas electricas",
+							"url": "/browse/catalogo-electro-salud-y-bienestar-almohadillas-electricas/_/N-1p6clx5?"
+						},
+						{
+							"idCategoria": "catv00000681",
+							"displayName": "Masajeadores",
+							"url": "/browse/catalogo-electro-salud-y-bienestar-masajeadores/_/N-120khyc?"
+						},
+						{
+							"idCategoria": "catv00000684",
+							"displayName": "Termometros",
+							"url": "/browse/catalogo-electro-salud-y-bienestar-termometros/_/N-1y8flca?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002027",
+					"displayName": "Cuidado personal",
+					"url": "/browse/catalogo-electro-cuidado-personal/_/N-f5yv7z?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002008",
+							"displayName": "Cuidado masculino",
+							"url": "/browse/catalogo-electro-cuidado-personal-cuidado-masculino/_/N-suf6t7?"
+						},
+						{
+							"idCategoria": "catv00002007",
+							"displayName": "Cuidado femenino",
+							"url": "/browse/catalogo-electro-cuidado-personal-cuidado-femenino/_/N-l9fqwp?"
+						}
+					]
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001259",
+			"displayName": "Textil",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_textil",
+			"extension": ".png",
+			"url": "/browse/catalogo-textil/_/N-l8joi7?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00001640",
+					"displayName": "Dormitorio",
+					"url": "/browse/catalogo-textil-dormitorio/_/N-1gkigxm?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002164",
+							"displayName": "Almohadones",
+							"url": "/browse/catalogo-textil-dormitorio-almohadones/_/N-1psjbgg?"
+						},
+						{
+							"idCategoria": "catv00002168",
+							"displayName": "Sabanas",
+							"url": "/browse/catalogo-textil-dormitorio-sabanas/_/N-1jh0uyd?"
+						},
+						{
+							"idCategoria": "catv00002166",
+							"displayName": "Acolchados",
+							"url": "/browse/catalogo-textil-dormitorio-acolchados/_/N-xksw1d?"
+						},
+						{
+							"idCategoria": "catv00002167",
+							"displayName": "Frazadas",
+							"url": "/browse/catalogo-textil-dormitorio-frazadas/_/N-hnc2l7?"
+						},
+						{
+							"idCategoria": "catv00002165",
+							"displayName": "Fundas para almohadas",
+							"url": "/browse/catalogo-textil-dormitorio-fundas-para-almohadas/_/N-6vydn4?"
+						},
+						{
+							"idCategoria": "catv00002169",
+							"displayName": "Cubrecamas",
+							"url": "/browse/catalogo-textil-dormitorio-cubrecamas/_/N-3o6yf6?"
+						},
+						{
+							"idCategoria": "catv00002170",
+							"displayName": "Colchones",
+							"url": "/browse/catalogo-textil-dormitorio-colchones/_/N-1gs28f5?"
+						},
+						{
+							"idCategoria": "catv00002171",
+							"displayName": "Mantas",
+							"url": "/browse/catalogo-textil-dormitorio-mantas/_/N-15ib148?"
+						},
+						{
+							"idCategoria": "catv00002172",
+							"displayName": "Cobertores",
+							"url": "/browse/catalogo-textil-dormitorio-cobertores/_/N-18obri?"
+						},
+						{
+							"idCategoria": "catv00002239",
+							"displayName": "Cortinas de ambiente",
+							"url": "/browse/catalogo-textil-dormitorio-cortinas-de-ambiente/_/N-1y6ge8g?"
+						},
+						{
+							"idCategoria": "catv00002730",
+							"displayName": "Lonas",
+							"url": "/browse/catalogo-textil-dormitorio-lonas/_/N-1llnsdk?"
+						},
+						{
+							"idCategoria": "catv00002748",
+							"displayName": "Colchonetas",
+							"url": "/browse/catalogo-textil-dormitorio-colchonetas/_/N-1k29scf?"
+						},
+						{
+							"idCategoria": "catv00003953",
+							"displayName": "Cortinas",
+							"url": "/browse/catalogo-textil-dormitorio-cortinas/_/N-vc74sf?"
+						},
+						{
+							"idCategoria": "catv00003991",
+							"displayName": "Pie de cama",
+							"url": "/browse/catalogo-textil-dormitorio-pie-de-cama/_/N-r3p0u4?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001639",
+					"displayName": "Cocina",
+					"url": "/browse/catalogo-textil-cocina/_/N-1qh8xse?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002162",
+							"displayName": "Caminos",
+							"url": "/browse/catalogo-textil-cocina-caminos/_/N-a9sino?"
+						},
+						{
+							"idCategoria": "catv00002159",
+							"displayName": "Delantales y manoplas",
+							"url": "/browse/catalogo-textil-cocina-delantales-y-manoplas/_/N-138d2m5?"
+						},
+						{
+							"idCategoria": "catv00002160",
+							"displayName": "Manteles",
+							"url": "/browse/catalogo-textil-cocina-manteles/_/N-1mv8e73?"
+						},
+						{
+							"idCategoria": "catv00002163",
+							"displayName": "Individuales",
+							"url": "/browse/catalogo-textil-cocina-individuales/_/N-7glweo?"
+						},
+						{
+							"idCategoria": "catv00002161",
+							"displayName": "Repasadores",
+							"url": "/browse/catalogo-textil-cocina-repasadores/_/N-18243sp?"
+						},
+						{
+							"idCategoria": "catv00002734",
+							"displayName": "Servilletas",
+							"url": "/browse/catalogo-textil-cocina-servilletas/_/N-1f2y6xz?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001641",
+					"displayName": "Living",
+					"url": "/browse/catalogo-textil-living/_/N-fdc29k?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002173",
+							"displayName": "Alfombras",
+							"url": "/browse/catalogo-textil-living-alfombras/_/N-10k38m1?"
+						},
+						{
+							"idCategoria": "catv00002174",
+							"displayName": "Felpudos",
+							"url": "/browse/catalogo-textil-living-felpudos/_/N-a5fqy1?"
+						},
+						{
+							"idCategoria": "catv00003998",
+							"displayName": "Almohadones",
+							"url": "/browse/catalogo-textil-living-almohadones/_/N-1uxz6ra?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001638",
+					"displayName": "Baño",
+					"url": "/browse/catalogo-textil-baño/_/N-19kwm3w?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002175",
+							"displayName": "Antideslizantes",
+							"url": "/browse/catalogo-textil-baño-antideslizantes/_/N-z9c37b?"
+						},
+						{
+							"idCategoria": "catv00002176",
+							"displayName": "Toallas y toallones",
+							"url": "/browse/catalogo-textil-baño-toallas-y-toallones/_/N-1po4hst?"
+						},
+						{
+							"idCategoria": "catv00002177",
+							"displayName": "Alfombras",
+							"url": "/browse/catalogo-textil-baño-alfombras/_/N-1ohp743?"
+						},
+						{
+							"idCategoria": "catv00002178",
+							"displayName": "Cortinas",
+							"url": "/browse/catalogo-textil-baño-cortinas/_/N-1cwqvsa?"
+						},
+						{
+							"idCategoria": "catv00002344",
+							"displayName": "Lonas de playa",
+							"url": "/browse/catalogo-textil-baño-lonas-de-playa/_/N-1ddhn8c?"
+						},
+						{
+							"idCategoria": "catv00002773",
+							"displayName": "Cesto para ropa",
+							"url": "/browse/catalogo-textil-baño-cesto-para-ropa/_/N-3lrv3j?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001355",
+					"displayName": "Niños y bebes",
+					"url": "/browse/catalogo-textil-niños-y-bebes/_/N-1inai38?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002429",
+							"displayName": "Bebés",
+							"url": "/browse/catalogo-textil-niños-y-bebes-bebés/_/N-1ror4b8?"
+						},
+						{
+							"idCategoria": "catv00002427",
+							"displayName": "Niños",
+							"url": "/browse/catalogo-textil-niños-y-bebes-niños/_/N-ce04vl?"
+						},
+						{
+							"idCategoria": "catv00002428",
+							"displayName": "Niñas",
+							"url": "/browse/catalogo-textil-niños-y-bebes-niñas/_/N-1cw5d1c?"
+						},
+						{
+							"idCategoria": "catv00003666",
+							"displayName": "Colegial",
+							"url": "/browse/catalogo-textil-niños-y-bebes-colegial/_/N-1sv08t?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001353",
+					"displayName": "Calzado",
+					"url": "/browse/catalogo-textil-calzado/_/N-xb9ft?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001653",
+							"displayName": "Pantuflas",
+							"url": "/browse/catalogo-textil-calzado-pantuflas/_/N-cje97u?"
+						},
+						{
+							"idCategoria": "catv00001652",
+							"displayName": "Ojotas",
+							"url": "/browse/catalogo-textil-calzado-ojotas/_/N-ved8e3?"
+						},
+						{
+							"idCategoria": "catv00001651",
+							"displayName": "Medias",
+							"url": "/browse/catalogo-textil-calzado-medias/_/N-1rt6kdc?"
+						},
+						{
+							"idCategoria": "catv00002076",
+							"displayName": "Zapatillas",
+							"url": "/browse/catalogo-textil-calzado-zapatillas/_/N-1lqzbm4?"
+						},
+						{
+							"idCategoria": "catv00002335",
+							"displayName": "Sandalias",
+							"url": "/browse/catalogo-textil-calzado-sandalias/_/N-2gy12h?"
+						},
+						{
+							"idCategoria": "catv00002349",
+							"displayName": "Suecos",
+							"url": "/browse/catalogo-textil-calzado-suecos/_/N-14hgys2?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003667",
+					"displayName": "Ropa interior",
+					"url": "/browse/catalogo-textil-ropa-interior/_/N-e1h3g7?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003668",
+							"displayName": "Dama",
+							"url": "/browse/catalogo-textil-ropa-interior-dama/_/N-5z5icb?"
+						},
+						{
+							"idCategoria": "catv00003669",
+							"displayName": "Caballero",
+							"url": "/browse/catalogo-textil-ropa-interior-caballero/_/N-ztnyu4?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001354",
+					"displayName": "Marroquineria",
+					"url": "/browse/catalogo-textil-marroquineria/_/N-rfx2sn?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001658",
+							"displayName": "Mochilas",
+							"url": "/browse/catalogo-textil-marroquineria-mochilas/_/N-qhmkql?"
+						},
+						{
+							"idCategoria": "catv00001656",
+							"displayName": "Carteras",
+							"url": "/browse/catalogo-textil-marroquineria-carteras/_/N-jdeul4?"
+						},
+						{
+							"idCategoria": "catv00001655",
+							"displayName": "Valijas",
+							"url": "/browse/catalogo-textil-marroquineria-valijas/_/N-61oo6o?"
+						},
+						{
+							"idCategoria": "catv00001657",
+							"displayName": "Bolsos",
+							"url": "/browse/catalogo-textil-marroquineria-bolsos/_/N-7qj90g?"
+						},
+						{
+							"idCategoria": "catv00002350",
+							"displayName": "Paraguas",
+							"url": "/browse/catalogo-textil-marroquineria-paraguas/_/N-14izwge?"
+						},
+						{
+							"idCategoria": "catv00002431",
+							"displayName": "Billeteras",
+							"url": "/browse/catalogo-textil-marroquineria-billeteras/_/N-4hl5av?"
+						},
+						{
+							"idCategoria": "catv00002435",
+							"displayName": "Pañuelos",
+							"url": "/browse/catalogo-textil-marroquineria-pañuelos/_/N-1e8cy4o?"
+						},
+						{
+							"idCategoria": "catv00002439",
+							"displayName": "Pareos",
+							"url": "/browse/catalogo-textil-marroquineria-pareos/_/N-wa3k0c?"
+						},
+						{
+							"idCategoria": "catv00002445",
+							"displayName": "Cinturones",
+							"url": "/browse/catalogo-textil-marroquineria-cinturones/_/N-mn18ay?"
+						}
+					]
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001260",
+			"displayName": "Hogar",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_hogar",
+			"extension": ".png",
+			"url": "/browse/catalogo-hogar/_/N-qa34ar?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00002093",
+					"displayName": "Bazar",
+					"url": "/browse/catalogo-hogar-bazar/_/N-1s7yakw?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002095",
+							"displayName": "Accesorios vajilla",
+							"url": "/browse/catalogo-hogar-bazar-accesorios-vajilla/_/N-1ax89q?"
+						},
+						{
+							"idCategoria": "catv00002097",
+							"displayName": "Carros y changos",
+							"url": "/browse/catalogo-hogar-bazar-carros-y-changos/_/N-1gvjsb4?"
+						},
+						{
+							"idCategoria": "catv00002098",
+							"displayName": "Cocción acero / antiadherente",
+							"url": "/browse/catalogo-hogar-bazar-cocción-acero-antiadherente/_/N-lsjglk?"
+						},
+						{
+							"idCategoria": "catv00002099",
+							"displayName": "Cocción vidrio / ceramica",
+							"url": "/browse/catalogo-hogar-bazar-cocción-vidrio-ceramica/_/N-jrbwnt?"
+						},
+						{
+							"idCategoria": "catv00002100",
+							"displayName": "Conservadoras",
+							"url": "/browse/catalogo-hogar-bazar-conservadoras/_/N-utr5xr?"
+						},
+						{
+							"idCategoria": "catv00002101",
+							"displayName": "Copas",
+							"url": "/browse/catalogo-hogar-bazar-copas/_/N-13ymfd0?"
+						},
+						{
+							"idCategoria": "catv00002102",
+							"displayName": "Cubiertos",
+							"url": "/browse/catalogo-hogar-bazar-cubiertos/_/N-wkevl2?"
+						},
+						{
+							"idCategoria": "catv00002103",
+							"displayName": "Frascos y especieros",
+							"url": "/browse/catalogo-hogar-bazar-frascos-y-especieros/_/N-1pwhm1j?"
+						},
+						{
+							"idCategoria": "catv00002104",
+							"displayName": "Hermeticos",
+							"url": "/browse/catalogo-hogar-bazar-hermeticos/_/N-10bdoxs?"
+						},
+						{
+							"idCategoria": "catv00002105",
+							"displayName": "Jarras, botellas y decanter",
+							"url": "/browse/catalogo-hogar-bazar-jarras-botellas-y-decanter/_/N-1bua4cz?"
+						},
+						{
+							"idCategoria": "catv00002106",
+							"displayName": "Juegos vajillas",
+							"url": "/browse/catalogo-hogar-bazar-juegos-vajillas/_/N-2y68h5?"
+						},
+						{
+							"idCategoria": "catv00002108",
+							"displayName": "Mates y bombillas",
+							"url": "/browse/catalogo-hogar-bazar-mates-y-bombillas/_/N-1dzrux?"
+						},
+						{
+							"idCategoria": "catv00002109",
+							"displayName": "Mug y tazas",
+							"url": "/browse/catalogo-hogar-bazar-mug-y-tazas/_/N-iaiz8f?"
+						},
+						{
+							"idCategoria": "catv00002110",
+							"displayName": "Organización cocina",
+							"url": "/browse/catalogo-hogar-bazar-organización-cocina/_/N-r61fct?"
+						},
+						{
+							"idCategoria": "catv00002111",
+							"displayName": "Pasteleria",
+							"url": "/browse/catalogo-hogar-bazar-pasteleria/_/N-195yn8u?"
+						},
+						{
+							"idCategoria": "catv00002112",
+							"displayName": "Pavas",
+							"url": "/browse/catalogo-hogar-bazar-pavas/_/N-mioja8?"
+						},
+						{
+							"idCategoria": "catv00002113",
+							"displayName": "Plasticos y vajillas plasticas",
+							"url": "/browse/catalogo-hogar-bazar-plasticos-y-vajillas-plasticas/_/N-4zhk17?"
+						},
+						{
+							"idCategoria": "catv00002114",
+							"displayName": "Termos",
+							"url": "/browse/catalogo-hogar-bazar-termos/_/N-1qi9zeg?"
+						},
+						{
+							"idCategoria": "catv00002115",
+							"displayName": "Utensilios",
+							"url": "/browse/catalogo-hogar-bazar-utensilios/_/N-1pw0te9?"
+						},
+						{
+							"idCategoria": "catv00002116",
+							"displayName": "Vajilla",
+							"url": "/browse/catalogo-hogar-bazar-vajilla/_/N-1l4ltbh?"
+						},
+						{
+							"idCategoria": "catv00002117",
+							"displayName": "Vasos",
+							"url": "/browse/catalogo-hogar-bazar-vasos/_/N-1ysv1aj?"
+						},
+						{
+							"idCategoria": "catv00003680",
+							"displayName": "Encendedores",
+							"url": "/browse/catalogo-hogar-bazar-encendedores/_/N-cwlxlv?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002118",
+					"displayName": "Decoración",
+					"url": "/browse/catalogo-hogar-decoración/_/N-1m5f1r5?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002119",
+							"displayName": "Adornos",
+							"url": "/browse/catalogo-hogar-decoración-adornos/_/N-1mac5to?"
+						},
+						{
+							"idCategoria": "catv00002120",
+							"displayName": "Bandejas y centros de mesa",
+							"url": "/browse/catalogo-hogar-decoración-bandejas-y-centros-de-mesa/_/N-kp2f22?"
+						},
+						{
+							"idCategoria": "catv00002121",
+							"displayName": "Baules",
+							"url": "/browse/catalogo-hogar-decoración-baules/_/N-17q4n1v?"
+						},
+						{
+							"idCategoria": "catv00002122",
+							"displayName": "Cajas",
+							"url": "/browse/catalogo-hogar-decoración-cajas/_/N-dkovc4?"
+						},
+						{
+							"idCategoria": "catv00002123",
+							"displayName": "Canastas",
+							"url": "/browse/catalogo-hogar-decoración-canastas/_/N-ydpsic?"
+						},
+						{
+							"idCategoria": "catv00002124",
+							"displayName": "Cuadros y láminas",
+							"url": "/browse/catalogo-hogar-decoración-cuadros-y-láminas/_/N-zcnf26?"
+						},
+						{
+							"idCategoria": "catv00002125",
+							"displayName": "Espejos",
+							"url": "/browse/catalogo-hogar-decoración-espejos/_/N-1wl1hez?"
+						},
+						{
+							"idCategoria": "catv00002126",
+							"displayName": "Faroles",
+							"url": "/browse/catalogo-hogar-decoración-faroles/_/N-uqaez0?"
+						},
+						{
+							"idCategoria": "catv00002127",
+							"displayName": "Floreros, vasijas y jarrones",
+							"url": "/browse/catalogo-hogar-decoración-floreros-vasijas-y-jarrones/_/N-1azjc4w?"
+						},
+						{
+							"idCategoria": "catv00002128",
+							"displayName": "Flores y plantas",
+							"url": "/browse/catalogo-hogar-decoración-flores-y-plantas/_/N-6ge2ri?"
+						},
+						{
+							"idCategoria": "catv00002129",
+							"displayName": "Frascos y tarros",
+							"url": "/browse/catalogo-hogar-decoración-frascos-y-tarros/_/N-1pfbwgo?"
+						},
+						{
+							"idCategoria": "catv00002130",
+							"displayName": "Maceteros",
+							"url": "/browse/catalogo-hogar-decoración-maceteros/_/N-bitx1b?"
+						},
+						{
+							"idCategoria": "catv00002131",
+							"displayName": "Organización",
+							"url": "/browse/catalogo-hogar-decoración-organización/_/N-qt4w7t?"
+						},
+						{
+							"idCategoria": "catv00002132",
+							"displayName": "Petit mueble",
+							"url": "/browse/catalogo-hogar-decoración-petit-mueble/_/N-1mki6oa?"
+						},
+						{
+							"idCategoria": "catv00002133",
+							"displayName": "Portaretratos y fotos",
+							"url": "/browse/catalogo-hogar-decoración-portaretratos-y-fotos/_/N-gazofc?"
+						},
+						{
+							"idCategoria": "catv00002134",
+							"displayName": "Relojes",
+							"url": "/browse/catalogo-hogar-decoración-relojes/_/N-1nj69l8?"
+						},
+						{
+							"idCategoria": "catv00002135",
+							"displayName": "Velas y aromas",
+							"url": "/browse/catalogo-hogar-decoración-velas-y-aromas/_/N-131h6eu?"
+						},
+						{
+							"idCategoria": "catv00002771",
+							"displayName": "Alfombras",
+							"url": "/browse/catalogo-hogar-decoración-alfombras/_/N-yhi9jo?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002136",
+					"displayName": "Uso diario",
+					"url": "/browse/catalogo-hogar-uso-diario/_/N-3wi82x?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002137",
+							"displayName": "Accesorios de baño",
+							"url": "/browse/catalogo-hogar-uso-diario-accesorios-de-baño/_/N-jt92ws?"
+						},
+						{
+							"idCategoria": "catv00002138",
+							"displayName": "Accesorios de lavadero",
+							"url": "/browse/catalogo-hogar-uso-diario-accesorios-de-lavadero/_/N-1txjas5?"
+						},
+						{
+							"idCategoria": "catv00002139",
+							"displayName": "Bolsas de compras",
+							"url": "/browse/catalogo-hogar-uso-diario-bolsas-de-compras/_/N-193jhi6?"
+						},
+						{
+							"idCategoria": "catv00002140",
+							"displayName": "Bolsas y fundas",
+							"url": "/browse/catalogo-hogar-uso-diario-bolsas-y-fundas/_/N-xqpvqa?"
+						},
+						{
+							"idCategoria": "catv00002141",
+							"displayName": "Cotillon",
+							"url": "/browse/catalogo-hogar-uso-diario-cotillon/_/N-1uff5u2?"
+						},
+						{
+							"idCategoria": "catv00002142",
+							"displayName": "Descartables",
+							"url": "/browse/catalogo-hogar-uso-diario-descartables/_/N-192qnac?"
+						},
+						{
+							"idCategoria": "catv00002143",
+							"displayName": "Filtros y repuestos",
+							"url": "/browse/catalogo-hogar-uso-diario-filtros-y-repuestos/_/N-1c0qul2?"
+						},
+						{
+							"idCategoria": "catv00002144",
+							"displayName": "Organización y lavadero",
+							"url": "/browse/catalogo-hogar-uso-diario-organización-y-lavadero/_/N-1cbaia4?"
+						},
+						{
+							"idCategoria": "catv00002145",
+							"displayName": "Papeleros y tachos",
+							"url": "/browse/catalogo-hogar-uso-diario-papeleros-y-tachos/_/N-12quqiq?"
+						},
+						{
+							"idCategoria": "catv00002146",
+							"displayName": "Perchas",
+							"url": "/browse/catalogo-hogar-uso-diario-perchas/_/N-2zj9sx?"
+						},
+						{
+							"idCategoria": "catv00002147",
+							"displayName": "Tablas de planchado",
+							"url": "/browse/catalogo-hogar-uso-diario-tablas-de-planchado/_/N-pjomy6?"
+						},
+						{
+							"idCategoria": "catv00002148",
+							"displayName": "Tenders",
+							"url": "/browse/catalogo-hogar-uso-diario-tenders/_/N-4exqtw?"
+						},
+						{
+							"idCategoria": "catv00003698",
+							"displayName": "Viandas escolares",
+							"url": "/browse/catalogo-hogar-uso-diario-viandas-escolares/_/N-1vm1y4x?"
+						},
+						{
+							"idCategoria": "catv00003719",
+							"displayName": "Cumpleaños",
+							"url": "/browse/catalogo-hogar-uso-diario-cumpleaños/_/N-1u5bfe2?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001362",
+					"displayName": "Accesorios de iluminación y electricidad",
+					"url": "/browse/catalogo-hogar-accesorios-de-iluminación-y-electricidad/_/N-ci6lta?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001894",
+							"displayName": "Lamparitas",
+							"url": "/browse/catalogo-hogar-accesorios-de-iluminación-y-electricidad-lamparitas/_/N-1uy8k8k?"
+						},
+						{
+							"idCategoria": "catv00002520",
+							"displayName": "Artefactos de iluminación",
+							"url": "/browse/catalogo-hogar-accesorios-de-iluminación-y-electricidad-artefactos-de-iluminación/_/N-17vs3g1?"
+						},
+						{
+							"idCategoria": "catv00002521",
+							"displayName": "Cinta aisladora",
+							"url": "/browse/catalogo-hogar-accesorios-de-iluminación-y-electricidad-cinta-aisladora/_/N-ph2ww6?"
+						},
+						{
+							"idCategoria": "catv00002522",
+							"displayName": "Estacas solares",
+							"url": "/browse/catalogo-hogar-accesorios-de-iluminación-y-electricidad-estacas-solares/_/N-v6pett?"
+						},
+						{
+							"idCategoria": "catv00002523",
+							"displayName": "Iluminacion de emergencia",
+							"url": "/browse/catalogo-hogar-accesorios-de-iluminación-y-electricidad-iluminacion-de-emergencia/_/N-d9vnpg?"
+						},
+						{
+							"idCategoria": "catv00002524",
+							"displayName": "Linternas",
+							"url": "/browse/catalogo-hogar-accesorios-de-iluminación-y-electricidad-linternas/_/N-10i9rwc?"
+						},
+						{
+							"idCategoria": "catv00002525",
+							"displayName": "Pilas y baterias",
+							"url": "/browse/catalogo-hogar-accesorios-de-iluminación-y-electricidad-pilas-y-baterias/_/N-10qxqzl?"
+						},
+						{
+							"idCategoria": "catv00002526",
+							"displayName": "Zapatillas y prolongadores",
+							"url": "/browse/catalogo-hogar-accesorios-de-iluminación-y-electricidad-zapatillas-y-prolongadores/_/N-bd23ye?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001359",
+					"displayName": "Muebles de interior",
+					"url": "/browse/catalogo-hogar-muebles-de-interior/_/N-ik2umm?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002619",
+							"displayName": "Sillas de interior",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-sillas-de-interior/_/N-o209mo?"
+						},
+						{
+							"idCategoria": "catv00002620",
+							"displayName": "Sillas de oficina",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-sillas-de-oficina/_/N-121u4rw?"
+						},
+						{
+							"idCategoria": "catv00001981",
+							"displayName": "Banquetas",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-banquetas/_/N-10ft8bh?"
+						},
+						{
+							"idCategoria": "catv00002618",
+							"displayName": "Modulos",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-modulos/_/N-1x4a68m?"
+						},
+						{
+							"idCategoria": "catv00001980",
+							"displayName": "Cajoneras",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-cajoneras/_/N-1eaqip8?"
+						},
+						{
+							"idCategoria": "catv00001983",
+							"displayName": "Carrobar",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-carrobar/_/N-k82bl7?"
+						},
+						{
+							"idCategoria": "catv00001716",
+							"displayName": "Comodas",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-comodas/_/N-1mhke5g?"
+						},
+						{
+							"idCategoria": "catv00001982",
+							"displayName": "Escritorios",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-escritorios/_/N-rj4m0j?"
+						},
+						{
+							"idCategoria": "catv00002614",
+							"displayName": "Espejos",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-espejos/_/N-1mpibb2?"
+						},
+						{
+							"idCategoria": "catv00002615",
+							"displayName": "Estanterias y bibliotecas",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-estanterias-y-bibliotecas/_/N-qlx2ya?"
+						},
+						{
+							"idCategoria": "catv00002616",
+							"displayName": "Juegos de comedor interior",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-juegos-de-comedor-interior/_/N-5ahi57?"
+						},
+						{
+							"idCategoria": "catv00002617",
+							"displayName": "Mesas de interior",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-mesas-de-interior/_/N-1izzrkt?"
+						},
+						{
+							"idCategoria": "catv00002621",
+							"displayName": "Tv-audio-video, mesas",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-tv-audio-video-mesas/_/N-jjg6rs?"
+						},
+						{
+							"idCategoria": "catv00002622",
+							"displayName": "Despenseros",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-despenseros/_/N-1i64dy4?"
+						},
+						{
+							"idCategoria": "catv00003434",
+							"displayName": "Roperos",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-roperos/_/N-3pwloj?"
+						},
+						{
+							"idCategoria": "catv00003959",
+							"displayName": "Percheros",
+							"url": "/browse/catalogo-hogar-muebles-de-interior-percheros/_/N-13ra0a9?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001373",
+					"displayName": "Ferreteria",
+					"url": "/browse/catalogo-hogar-ferreteria/_/N-vkmx7w?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001742",
+							"displayName": "Hogar: uso domestico",
+							"url": "/browse/catalogo-hogar-ferreteria-hogar-uso-domestico/_/N-i9iy10?"
+						},
+						{
+							"idCategoria": "catv00001743",
+							"displayName": "Pegamentos y afines",
+							"url": "/browse/catalogo-hogar-ferreteria-pegamentos-y-afines/_/N-igtcuy?"
+						},
+						{
+							"idCategoria": "catv00001744",
+							"displayName": "Pintureria",
+							"url": "/browse/catalogo-hogar-ferreteria-pintureria/_/N-1hukw9a?"
+						},
+						{
+							"idCategoria": "catv00001745",
+							"displayName": "Herramientas",
+							"url": "/browse/catalogo-hogar-ferreteria-herramientas/_/N-1tdr327?"
+						},
+						{
+							"idCategoria": "catv00001740",
+							"displayName": "Cajas y organizadores",
+							"url": "/browse/catalogo-hogar-ferreteria-cajas-y-organizadores/_/N-1qeqdyd?"
+						},
+						{
+							"idCategoria": "catv00001741",
+							"displayName": "Escaleras",
+							"url": "/browse/catalogo-hogar-ferreteria-escaleras/_/N-89il8v?"
+						},
+						{
+							"idCategoria": "catv00001739",
+							"displayName": "Cajas fuertes",
+							"url": "/browse/catalogo-hogar-ferreteria-cajas-fuertes/_/N-e7pe2m?"
+						},
+						{
+							"idCategoria": "catv00001746",
+							"displayName": "Seguridad",
+							"url": "/browse/catalogo-hogar-ferreteria-seguridad/_/N-1bkfiq6?"
+						},
+						{
+							"idCategoria": "catv00002578",
+							"displayName": "Taller",
+							"url": "/browse/catalogo-hogar-ferreteria-taller/_/N-17vw1i2?"
+						},
+						{
+							"idCategoria": "catv00002579",
+							"displayName": "Grupos electrógenos",
+							"url": "/browse/catalogo-hogar-ferreteria-grupos-electrógenos/_/N-1assj8p?"
+						},
+						{
+							"idCategoria": "catv00002580",
+							"displayName": "Burletes / topes / zocalos",
+							"url": "/browse/catalogo-hogar-ferreteria-burletes-topes-zocalos/_/N-1bg4fdw?"
+						},
+						{
+							"idCategoria": "catv00002581",
+							"displayName": "Quincalleria",
+							"url": "/browse/catalogo-hogar-ferreteria-quincalleria/_/N-7ztiiv?"
+						},
+						{
+							"idCategoria": "catv00002582",
+							"displayName": "Plomeria",
+							"url": "/browse/catalogo-hogar-ferreteria-plomeria/_/N-10w6ug1?"
+						},
+						{
+							"idCategoria": "catv00002583",
+							"displayName": "Medicion",
+							"url": "/browse/catalogo-hogar-ferreteria-medicion/_/N-eapr2i?"
+						},
+						{
+							"idCategoria": "catv00002584",
+							"displayName": "Lubricantes",
+							"url": "/browse/catalogo-hogar-ferreteria-lubricantes/_/N-34awuz?"
+						},
+						{
+							"idCategoria": "catv00002585",
+							"displayName": "Guantes",
+							"url": "/browse/catalogo-hogar-ferreteria-guantes/_/N-1n0iokl?"
+						},
+						{
+							"idCategoria": "catv00002586",
+							"displayName": "Empaques y embalajes",
+							"url": "/browse/catalogo-hogar-ferreteria-empaques-y-embalajes/_/N-rnmex8?"
+						},
+						{
+							"idCategoria": "catv00002587",
+							"displayName": "Sogas e hilos",
+							"url": "/browse/catalogo-hogar-ferreteria-sogas-e-hilos/_/N-13x0ezj?"
+						},
+						{
+							"idCategoria": "catv00002588",
+							"displayName": "Selladores",
+							"url": "/browse/catalogo-hogar-ferreteria-selladores/_/N-1mr7lsd?"
+						},
+						{
+							"idCategoria": "catv00002589",
+							"displayName": "Elementos de seguridad",
+							"url": "/browse/catalogo-hogar-ferreteria-elementos-de-seguridad/_/N-1odyps7?"
+						},
+						{
+							"idCategoria": "catv00002590",
+							"displayName": "Construccion: impermeabilizante",
+							"url": "/browse/catalogo-hogar-ferreteria-construccion-impermeabilizante/_/N-159x0e3?"
+						},
+						{
+							"idCategoria": "catv00002591",
+							"displayName": "Cerrajeria candados",
+							"url": "/browse/catalogo-hogar-ferreteria-cerrajeria-candados/_/N-dpo07m?"
+						},
+						{
+							"idCategoria": "catv00002592",
+							"displayName": "Cerrajeria",
+							"url": "/browse/catalogo-hogar-ferreteria-cerrajeria/_/N-75qjd6?"
+						},
+						{
+							"idCategoria": "catv00002593",
+							"displayName": "Cepillos manuales",
+							"url": "/browse/catalogo-hogar-ferreteria-cepillos-manuales/_/N-1c6lkf6?"
+						},
+						{
+							"idCategoria": "catv00002594",
+							"displayName": "Carritos",
+							"url": "/browse/catalogo-hogar-ferreteria-carritos/_/N-gfvjt7?"
+						},
+						{
+							"idCategoria": "catv00002595",
+							"displayName": "Cabos repuestos",
+							"url": "/browse/catalogo-hogar-ferreteria-cabos-repuestos/_/N-kdhpt?"
+						},
+						{
+							"idCategoria": "catv00003964",
+							"displayName": "Herramientas eléctricas",
+							"url": "/browse/catalogo-hogar-ferreteria-herramientas-eléctricas/_/N-1otsfuy?"
+						},
+						{
+							"idCategoria": "catv00003965",
+							"displayName": "Herramientas manuales",
+							"url": "/browse/catalogo-hogar-ferreteria-herramientas-manuales/_/N-1dw5vl8?"
+						},
+						{
+							"idCategoria": "catv00003966",
+							"displayName": "Hidrolavadoras",
+							"url": "/browse/catalogo-hogar-ferreteria-hidrolavadoras/_/N-1xlr95x?"
+						},
+						{
+							"idCategoria": "catv00004076",
+							"displayName": "Cargadores",
+							"url": "/browse/catalogo-hogar-ferreteria-cargadores/_/N-1wzp9m4?"
+						},
+						{
+							"idCategoria": "catv00004077",
+							"displayName": "Compresores",
+							"url": "/browse/catalogo-hogar-ferreteria-compresores/_/N-xdffm2?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001372",
+					"displayName": "Automotor",
+					"url": "/browse/catalogo-hogar-automotor/_/N-19apk5n?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001733",
+							"displayName": "Cubiertas",
+							"url": "/browse/catalogo-hogar-automotor-cubiertas/_/N-mx28s5?"
+						},
+						{
+							"idCategoria": "catv00001731",
+							"displayName": "Baterias",
+							"url": "/browse/catalogo-hogar-automotor-baterias/_/N-5kk3wl?"
+						},
+						{
+							"idCategoria": "catv00001730",
+							"displayName": "Aditivos",
+							"url": "/browse/catalogo-hogar-automotor-aditivos/_/N-1fxnds5?"
+						},
+						{
+							"idCategoria": "catv00001728",
+							"displayName": "Accesorios",
+							"url": "/browse/catalogo-hogar-automotor-accesorios/_/N-1q0c5e6?"
+						},
+						{
+							"idCategoria": "catv00001734",
+							"displayName": "Emergencias",
+							"url": "/browse/catalogo-hogar-automotor-emergencias/_/N-120drio?"
+						},
+						{
+							"idCategoria": "catv00001737",
+							"displayName": "Lubricantes",
+							"url": "/browse/catalogo-hogar-automotor-lubricantes/_/N-t6mlsd?"
+						},
+						{
+							"idCategoria": "catv00001735",
+							"displayName": "Fundas",
+							"url": "/browse/catalogo-hogar-automotor-fundas/_/N-uuop72?"
+						},
+						{
+							"idCategoria": "catv00001738",
+							"displayName": "Seguridad",
+							"url": "/browse/catalogo-hogar-automotor-seguridad/_/N-1244qup?"
+						},
+						{
+							"idCategoria": "catv00001736",
+							"displayName": "Limpieza",
+							"url": "/browse/catalogo-hogar-automotor-limpieza/_/N-17gesc7?"
+						},
+						{
+							"idCategoria": "catv00001732",
+							"displayName": "Cosmetica",
+							"url": "/browse/catalogo-hogar-automotor-cosmetica/_/N-1ncz480?"
+						},
+						{
+							"idCategoria": "catv00003962",
+							"displayName": "Compresores",
+							"url": "/browse/catalogo-hogar-automotor-compresores/_/N-1dwt723?"
+						},
+						{
+							"idCategoria": "catv00003963",
+							"displayName": "Heladeras y conservadoras",
+							"url": "/browse/catalogo-hogar-automotor-heladeras-y-conservadoras/_/N-35avea?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001376",
+					"displayName": "Jugueteria",
+					"url": "/browse/catalogo-hogar-jugueteria/_/N-175f40x?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003826",
+							"displayName": "Licencias",
+							"url": "/browse/catalogo-hogar-jugueteria-licencias/_/N-1lvn102?"
+						},
+						{
+							"idCategoria": "catv00003904",
+							"displayName": "Accesorios de bebotes",
+							"url": "/browse/catalogo-hogar-jugueteria-accesorios-de-bebotes/_/N-1o6h12n?"
+						},
+						{
+							"idCategoria": "catv00003905",
+							"displayName": "Accesorios domesticos",
+							"url": "/browse/catalogo-hogar-jugueteria-accesorios-domesticos/_/N-1uit6z0?"
+						},
+						{
+							"idCategoria": "catv00003907",
+							"displayName": "Accesorios para el agua",
+							"url": "/browse/catalogo-hogar-jugueteria-accesorios-para-el-agua/_/N-1kueg63?"
+						},
+						{
+							"idCategoria": "catv00003908",
+							"displayName": "Armado y construccion",
+							"url": "/browse/catalogo-hogar-jugueteria-armado-y-construccion/_/N-1wcibi4?"
+						},
+						{
+							"idCategoria": "catv00003909",
+							"displayName": "Articulos de playa",
+							"url": "/browse/catalogo-hogar-jugueteria-articulos-de-playa/_/N-ku6uxu?"
+						},
+						{
+							"idCategoria": "catv00003910",
+							"displayName": "Autos coleccionables",
+							"url": "/browse/catalogo-hogar-jugueteria-autos-coleccionables/_/N-dnqzt7?"
+						},
+						{
+							"idCategoria": "catv00003911",
+							"displayName": "Aviones y afines",
+							"url": "/browse/catalogo-hogar-jugueteria-aviones-y-afines/_/N-12bh432?"
+						},
+						{
+							"idCategoria": "catv00003912",
+							"displayName": "Barcos y afines",
+							"url": "/browse/catalogo-hogar-jugueteria-barcos-y-afines/_/N-16re5bt?"
+						},
+						{
+							"idCategoria": "catv00003913",
+							"displayName": "Bebotes",
+							"url": "/browse/catalogo-hogar-jugueteria-bebotes/_/N-19fq6u3?"
+						},
+						{
+							"idCategoria": "catv00003914",
+							"displayName": "Bijouterie y accesorios",
+							"url": "/browse/catalogo-hogar-jugueteria-bijouterie-y-accesorios/_/N-150pgq1?"
+						},
+						{
+							"idCategoria": "catv00003915",
+							"displayName": "Bright starts",
+							"url": "/browse/catalogo-hogar-jugueteria-bright-starts/_/N-dflisr?"
+						},
+						{
+							"idCategoria": "catv00003916",
+							"displayName": "Burbujeros",
+							"url": "/browse/catalogo-hogar-jugueteria-burbujeros/_/N-adaxqr?"
+						},
+						{
+							"idCategoria": "catv00003917",
+							"displayName": "Carretillas y carritos",
+							"url": "/browse/catalogo-hogar-jugueteria-carretillas-y-carritos/_/N-mhs5s7?"
+						},
+						{
+							"idCategoria": "catv00003918",
+							"displayName": "Control remoto",
+							"url": "/browse/catalogo-hogar-jugueteria-control-remoto/_/N-yx841d?"
+						},
+						{
+							"idCategoria": "catv00003919",
+							"displayName": "Deportivos",
+							"url": "/browse/catalogo-hogar-jugueteria-deportivos/_/N-16zzic6?"
+						},
+						{
+							"idCategoria": "catv00003920",
+							"displayName": "Didacticos y educativos",
+							"url": "/browse/catalogo-hogar-jugueteria-didacticos-y-educativos/_/N-1j019ul?"
+						},
+						{
+							"idCategoria": "catv00003921",
+							"displayName": "Disfraces",
+							"url": "/browse/catalogo-hogar-jugueteria-disfraces/_/N-1paqu70?"
+						},
+						{
+							"idCategoria": "catv00003924",
+							"displayName": "Fisher price",
+							"url": "/browse/catalogo-hogar-jugueteria-fisher-price/_/N-qpkmye?"
+						},
+						{
+							"idCategoria": "catv00003925",
+							"displayName": "Flotadores",
+							"url": "/browse/catalogo-hogar-jugueteria-flotadores/_/N-3qzq2c?"
+						},
+						{
+							"idCategoria": "catv00003926",
+							"displayName": "Herramientas",
+							"url": "/browse/catalogo-hogar-jugueteria-herramientas/_/N-1uwtvyw?"
+						},
+						{
+							"idCategoria": "catv00003927",
+							"displayName": "Indumentaria",
+							"url": "/browse/catalogo-hogar-jugueteria-indumentaria/_/N-1cebtty?"
+						},
+						{
+							"idCategoria": "catv00003928",
+							"displayName": "Inflables",
+							"url": "/browse/catalogo-hogar-jugueteria-inflables/_/N-9txty0?"
+						},
+						{
+							"idCategoria": "catv00003929",
+							"displayName": "Juegos de agua",
+							"url": "/browse/catalogo-hogar-jugueteria-juegos-de-agua/_/N-invv36?"
+						},
+						{
+							"idCategoria": "catv00003930",
+							"displayName": "Juegos de mesa",
+							"url": "/browse/catalogo-hogar-jugueteria-juegos-de-mesa/_/N-r41723?"
+						},
+						{
+							"idCategoria": "catv00003931",
+							"displayName": "Juegos musicales",
+							"url": "/browse/catalogo-hogar-jugueteria-juegos-musicales/_/N-px1k44?"
+						},
+						{
+							"idCategoria": "catv00003932",
+							"displayName": "Juguetes sorpresas",
+							"url": "/browse/catalogo-hogar-jugueteria-juguetes-sorpresas/_/N-dkdumw?"
+						},
+						{
+							"idCategoria": "catv00003933",
+							"displayName": "Kits de magia",
+							"url": "/browse/catalogo-hogar-jugueteria-kits-de-magia/_/N-1wvjc7m?"
+						},
+						{
+							"idCategoria": "catv00003934",
+							"displayName": "Masas",
+							"url": "/browse/catalogo-hogar-jugueteria-masas/_/N-kd2b2g?"
+						},
+						{
+							"idCategoria": "catv00003935",
+							"displayName": "Masas slime",
+							"url": "/browse/catalogo-hogar-jugueteria-masas-slime/_/N-1jidf5t?"
+						},
+						{
+							"idCategoria": "catv00003936",
+							"displayName": "Moto y afines",
+							"url": "/browse/catalogo-hogar-jugueteria-moto-y-afines/_/N-1tgird0?"
+						},
+						{
+							"idCategoria": "catv00003937",
+							"displayName": "Muñecas",
+							"url": "/browse/catalogo-hogar-jugueteria-muñecas/_/N-14h0uuu?"
+						},
+						{
+							"idCategoria": "catv00003939",
+							"displayName": "Muñecos",
+							"url": "/browse/catalogo-hogar-jugueteria-muñecos/_/N-1ybojm?"
+						},
+						{
+							"idCategoria": "catv00003940",
+							"displayName": "Pelotas infantiles",
+							"url": "/browse/catalogo-hogar-jugueteria-pelotas-infantiles/_/N-zio2zk?"
+						},
+						{
+							"idCategoria": "catv00003941",
+							"displayName": "Peluches",
+							"url": "/browse/catalogo-hogar-jugueteria-peluches/_/N-xebqwc?"
+						},
+						{
+							"idCategoria": "catv00003942",
+							"displayName": "Pistas y boxes",
+							"url": "/browse/catalogo-hogar-jugueteria-pistas-y-boxes/_/N-1sf2gtv?"
+						},
+						{
+							"idCategoria": "catv00003943",
+							"displayName": "Pistolas y lanzadores ",
+							"url": "/browse/catalogo-hogar-jugueteria-pistolas-y-lanzadores-/_/N-qhhqx7?"
+						},
+						{
+							"idCategoria": "catv00003944",
+							"displayName": "Playsets",
+							"url": "/browse/catalogo-hogar-jugueteria-playsets/_/N-9t0mhy?"
+						},
+						{
+							"idCategoria": "catv00003945",
+							"displayName": "Primera infancia",
+							"url": "/browse/catalogo-hogar-jugueteria-primera-infancia/_/N-lsw3zk?"
+						},
+						{
+							"idCategoria": "catv00003946",
+							"displayName": "Princesas",
+							"url": "/browse/catalogo-hogar-jugueteria-princesas/_/N-pk8js1?"
+						},
+						{
+							"idCategoria": "catv00003947",
+							"displayName": "Relojes",
+							"url": "/browse/catalogo-hogar-jugueteria-relojes/_/N-1qt4u38?"
+						},
+						{
+							"idCategoria": "catv00003948",
+							"displayName": "Rodados y accesorios",
+							"url": "/browse/catalogo-hogar-jugueteria-rodados-y-accesorios/_/N-cckrh8?"
+						},
+						{
+							"idCategoria": "catv00003949",
+							"displayName": "Sets cosmetica",
+							"url": "/browse/catalogo-hogar-jugueteria-sets-cosmetica/_/N-5h0q98?"
+						},
+						{
+							"idCategoria": "catv00003950",
+							"displayName": "Trenes y afines",
+							"url": "/browse/catalogo-hogar-jugueteria-trenes-y-afines/_/N-obuqxe?"
+						},
+						{
+							"idCategoria": "catv00003951",
+							"displayName": "Trompos",
+							"url": "/browse/catalogo-hogar-jugueteria-trompos/_/N-14clus1?"
+						},
+						{
+							"idCategoria": "catv00003952",
+							"displayName": "Vehiculos de juego",
+							"url": "/browse/catalogo-hogar-jugueteria-vehiculos-de-juego/_/N-jiuhqk?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00002398",
+					"displayName": "Libreria",
+					"url": "/browse/catalogo-hogar-libreria/_/N-5o2bp1?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002399",
+							"displayName": "Escritura",
+							"url": "/browse/catalogo-hogar-libreria-escritura/_/N-bnum8d?"
+						},
+						{
+							"idCategoria": "catv00002400",
+							"displayName": "Cuadernos, carpetas y repuestos",
+							"url": "/browse/catalogo-hogar-libreria-cuadernos-carpetas-y-repuestos/_/N-qar302?"
+						},
+						{
+							"idCategoria": "catv00002402",
+							"displayName": "Manualidades y artistica",
+							"url": "/browse/catalogo-hogar-libreria-manualidades-y-artistica/_/N-v61ec9?"
+						},
+						{
+							"idCategoria": "catv00002404",
+							"displayName": "Accesorios de oficina",
+							"url": "/browse/catalogo-hogar-libreria-accesorios-de-oficina/_/N-1jqgnmr?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00003317",
+					"displayName": "Navidad",
+					"url": "/browse/catalogo-hogar-navidad/_/N-16oq2k7?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003320",
+							"displayName": "Árboles de navidad",
+							"url": "/browse/catalogo-hogar-navidad-árboles-de-navidad/_/N-1e3dtr3?"
+						},
+						{
+							"idCategoria": "catv00003321",
+							"displayName": "Luces navideñas",
+							"url": "/browse/catalogo-hogar-navidad-luces-navideñas/_/N-ug3b1p?"
+						},
+						{
+							"idCategoria": "catv00003322",
+							"displayName": "Pesebres",
+							"url": "/browse/catalogo-hogar-navidad-pesebres/_/N-16idle?"
+						},
+						{
+							"idCategoria": "catv00003323",
+							"displayName": "Muñecos",
+							"url": "/browse/catalogo-hogar-navidad-muñecos/_/N-1j411g6?"
+						},
+						{
+							"idCategoria": "catv00003324",
+							"displayName": "Decoración para árboles",
+							"url": "/browse/catalogo-hogar-navidad-decoración-para-árboles/_/N-ixsyvj?"
+						},
+						{
+							"idCategoria": "catv00003325",
+							"displayName": "Adornos navideños",
+							"url": "/browse/catalogo-hogar-navidad-adornos-navideños/_/N-sark3h?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001374",
+					"displayName": "Libros",
+					"url": "/browse/catalogo-hogar-libros/_/N-q08sox?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00004010",
+							"displayName": "Ficción",
+							"url": "/browse/catalogo-hogar-libros-ficción/_/N-199k40a?"
+						},
+						{
+							"idCategoria": "catv00004018",
+							"displayName": "Salud y desarrollo personal",
+							"url": "/browse/catalogo-hogar-libros-salud-y-desarrollo-personal/_/N-1n6o6tl?"
+						},
+						{
+							"idCategoria": "catv00004019",
+							"displayName": "Educación",
+							"url": "/browse/catalogo-hogar-libros-educación/_/N-omfy6y?"
+						},
+						{
+							"idCategoria": "catv00004025",
+							"displayName": "Literatura juvenil",
+							"url": "/browse/catalogo-hogar-libros-literatura-juvenil/_/N-1obya2m?"
+						},
+						{
+							"idCategoria": "catv00004027",
+							"displayName": "Infantiles",
+							"url": "/browse/catalogo-hogar-libros-infantiles/_/N-1o23pus?"
+						},
+						{
+							"idCategoria": "catv00004029",
+							"displayName": "Astrología",
+							"url": "/browse/catalogo-hogar-libros-astrología/_/N-1il76a4?"
+						},
+						{
+							"idCategoria": "catv00004030",
+							"displayName": "Comunicación e investigación periodística política",
+							"url": "/browse/catalogo-hogar-libros-comunicación-e-investigación-periodística-política/_/N-11laluc?"
+						},
+						{
+							"idCategoria": "catv00004031",
+							"displayName": "Economía, finanzas, empresa y gestión",
+							"url": "/browse/catalogo-hogar-libros-economía-finanzas-empresa-y-gestión/_/N-12vf2sg?"
+						},
+						{
+							"idCategoria": "catv00004033",
+							"displayName": "Humanidades",
+							"url": "/browse/catalogo-hogar-libros-humanidades/_/N-1ynz184?"
+						},
+						{
+							"idCategoria": "catv00004040",
+							"displayName": "Biología y ciencias",
+							"url": "/browse/catalogo-hogar-libros-biología-y-ciencias/_/N-10l2uj2?"
+						},
+						{
+							"idCategoria": "catv00004043",
+							"displayName": "Literatura y estudios literarios",
+							"url": "/browse/catalogo-hogar-libros-literatura-y-estudios-literarios/_/N-1jerdc2?"
+						},
+						{
+							"idCategoria": "catv00004048",
+							"displayName": "Deportes y recreación al aire libre",
+							"url": "/browse/catalogo-hogar-libros-deportes-y-recreación-al-aire-libre/_/N-11njft?"
+						},
+						{
+							"idCategoria": "catv00004051",
+							"displayName": "Cocina, comidas y bebidas",
+							"url": "/browse/catalogo-hogar-libros-cocina-comidas-y-bebidas/_/N-1rtj4em?"
+						},
+						{
+							"idCategoria": "catv00004052",
+							"displayName": "Nutrición",
+							"url": "/browse/catalogo-hogar-libros-nutrición/_/N-ombgti?"
+						},
+						{
+							"idCategoria": "catv00004056",
+							"displayName": "Artes",
+							"url": "/browse/catalogo-hogar-libros-artes/_/N-13c0188?"
+						}
+					]
+				}
+			]
+		},
+		{
+			"idCategoria": "catv00001261",
+			"displayName": "Aire libre",
+			"image": "http://static.cotodigital.com.ar/sitios/cdigi/static//content/images/categorias/android/home_cat_aire_libre",
+			"extension": ".png",
+			"url": "/browse/catalogo-aire-libre/_/N-w7wnle?",
+			"firstLevelCategories": [
+				{
+					"idCategoria": "catv00002061",
+					"displayName": "Rodados",
+					"url": "/browse/catalogo-aire-libre-rodados/_/N-1bmal7a?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003742",
+							"displayName": "Bicicletas",
+							"url": "/browse/catalogo-aire-libre-rodados-bicicletas/_/N-1da1rvm?"
+						},
+						{
+							"idCategoria": "catv00003741",
+							"displayName": "Accesorios de ciclismo",
+							"url": "/browse/catalogo-aire-libre-rodados-accesorios-de-ciclismo/_/N-1edgtcg?"
+						},
+						{
+							"idCategoria": "catv00003743",
+							"displayName": "Skate / longboard",
+							"url": "/browse/catalogo-aire-libre-rodados-skate-longboard/_/N-r0ajlm?"
+						},
+						{
+							"idCategoria": "catv00003744",
+							"displayName": "Patines / monopatin",
+							"url": "/browse/catalogo-aire-libre-rodados-patines-monopatin/_/N-11mm8sy?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001369",
+					"displayName": "Deportes",
+					"url": "/browse/catalogo-aire-libre-deportes/_/N-15xz046?",
+					"secondLevelCategories": []
+				},
+				{
+					"idCategoria": "catv00001364",
+					"displayName": "Muebles de exterior",
+					"url": "/browse/catalogo-aire-libre-muebles-de-exterior/_/N-ckigvf?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001719",
+							"displayName": "Reposeras",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-reposeras/_/N-1ctnkx9?"
+						},
+						{
+							"idCategoria": "catv00002606",
+							"displayName": "Juegos de living exterior",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-juegos-de-living-exterior/_/N-1e7f0a7?"
+						},
+						{
+							"idCategoria": "catv00002607",
+							"displayName": "Juegos de comedor exterior",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-juegos-de-comedor-exterior/_/N-yi7b5p?"
+						},
+						{
+							"idCategoria": "catv00002613",
+							"displayName": "Gazebos",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-gazebos/_/N-w5in85?"
+						},
+						{
+							"idCategoria": "catv00001715",
+							"displayName": "Sombrillas",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-sombrillas/_/N-8zze7y?"
+						},
+						{
+							"idCategoria": "catv00001717",
+							"displayName": "Sillas de exterior plástico",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-sillas-de-exterior-plástico/_/N-14qcazr?"
+						},
+						{
+							"idCategoria": "catv00002604",
+							"displayName": "Sillas de exterior",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-sillas-de-exterior/_/N-q3y1sj?"
+						},
+						{
+							"idCategoria": "catv00002605",
+							"displayName": "Mesas de exterior",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-mesas-de-exterior/_/N-1puo0gs?"
+						},
+						{
+							"idCategoria": "catv00002608",
+							"displayName": "Plasticos",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-plasticos/_/N-1rq0l56?"
+						},
+						{
+							"idCategoria": "catv00002609",
+							"displayName": "Bancos",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-bancos/_/N-1bowmhh?"
+						},
+						{
+							"idCategoria": "catv00002611",
+							"displayName": "Mesas de exterior plástico",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-mesas-de-exterior-plástico/_/N-140nq7j?"
+						},
+						{
+							"idCategoria": "catv00002612",
+							"displayName": "Reposeras plástico",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-reposeras-plástico/_/N-o7tg4n?"
+						},
+						{
+							"idCategoria": "catv00002805",
+							"displayName": "Hamacas",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-hamacas/_/N-nmnjv?"
+						},
+						{
+							"idCategoria": "catv00001718",
+							"displayName": "Almohadones",
+							"url": "/browse/catalogo-aire-libre-muebles-de-exterior-almohadones/_/N-1f1uveb?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001366",
+					"displayName": "Jardineria",
+					"url": "/browse/catalogo-aire-libre-jardineria/_/N-1tguwuj?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00002465",
+							"displayName": "Maquinas de jardin",
+							"url": "/browse/catalogo-aire-libre-jardineria-maquinas-de-jardin/_/N-1s0yqqg?"
+						},
+						{
+							"idCategoria": "catv00002464",
+							"displayName": "Herramientas de jardin",
+							"url": "/browse/catalogo-aire-libre-jardineria-herramientas-de-jardin/_/N-xapxk?"
+						},
+						{
+							"idCategoria": "catv00002467",
+							"displayName": "Tierras, sustratos, semillas, fertilizantes y plaguicidas",
+							"url": "/browse/catalogo-aire-libre-jardineria-tierras-sustratos-semillas-fertilizantes-y-plaguicidas/_/N-fgobua?"
+						},
+						{
+							"idCategoria": "catv00002463",
+							"displayName": "Deco jardin y macetas",
+							"url": "/browse/catalogo-aire-libre-jardineria-deco-jardin-y-macetas/_/N-10ywm5m?"
+						},
+						{
+							"idCategoria": "catv00002462",
+							"displayName": "Antorchas y velas citronella",
+							"url": "/browse/catalogo-aire-libre-jardineria-antorchas-y-velas-citronella/_/N-4nene7?"
+						},
+						{
+							"idCategoria": "catv00002466",
+							"displayName": "Riego",
+							"url": "/browse/catalogo-aire-libre-jardineria-riego/_/N-4zladd?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001887",
+					"displayName": "Piletas",
+					"url": "/browse/catalogo-aire-libre-piletas/_/N-1wll179?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00001905",
+							"displayName": "Piletas",
+							"url": "/browse/catalogo-aire-libre-piletas-piletas/_/N-1d732r8?"
+						},
+						{
+							"idCategoria": "catv00001367",
+							"displayName": "Accesorios",
+							"url": "/browse/catalogo-aire-libre-piletas-accesorios/_/N-1aaga8h?"
+						},
+						{
+							"idCategoria": "catv00001906",
+							"displayName": "Cloro y mantenimiento",
+							"url": "/browse/catalogo-aire-libre-piletas-cloro-y-mantenimiento/_/N-163lvlh?"
+						},
+						{
+							"idCategoria": "catv00003988",
+							"displayName": "Inflables de pileta",
+							"url": "/browse/catalogo-aire-libre-piletas-inflables-de-pileta/_/N-1i4858d?"
+						},
+						{
+							"idCategoria": "catv00003989",
+							"displayName": "Snorkel",
+							"url": "/browse/catalogo-aire-libre-piletas-snorkel/_/N-ykyjee?"
+						},
+						{
+							"idCategoria": "catv00003990",
+							"displayName": "Antiparras",
+							"url": "/browse/catalogo-aire-libre-piletas-antiparras/_/N-19ge3?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00001368",
+					"displayName": "Camping",
+					"url": "/browse/catalogo-aire-libre-camping/_/N-1v1luo9?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00003750",
+							"displayName": "Carpas",
+							"url": "/browse/catalogo-aire-libre-camping-carpas/_/N-14zcrs3?"
+						},
+						{
+							"idCategoria": "catv00003751",
+							"displayName": "Colchones inflables",
+							"url": "/browse/catalogo-aire-libre-camping-colchones-inflables/_/N-171bfu8?"
+						},
+						{
+							"idCategoria": "catv00003752",
+							"displayName": "Sillas y mesas camping",
+							"url": "/browse/catalogo-aire-libre-camping-sillas-y-mesas-camping/_/N-1earclg?"
+						},
+						{
+							"idCategoria": "catv00003753",
+							"displayName": "Bolsas de dormir",
+							"url": "/browse/catalogo-aire-libre-camping-bolsas-de-dormir/_/N-1f6kj6b?"
+						}
+					]
+				},
+				{
+					"idCategoria": "catv00004004",
+					"displayName": "Parrilla",
+					"url": "/browse/catalogo-aire-libre-parrilla/_/N-1keoo2k?",
+					"secondLevelCategories": [
+						{
+							"idCategoria": "catv00004005",
+							"displayName": "Parrillas",
+							"url": "/browse/catalogo-aire-libre-parrilla-parrillas/_/N-8agmfw?"
+						},
+						{
+							"idCategoria": "catv00002096",
+							"displayName": "Carbón y leña",
+							"url": "/browse/catalogo-aire-libre-parrilla-carbón-y-leña/_/N-xlmx5k?"
+						},
+						{
+							"idCategoria": "catv00002094",
+							"displayName": "Accesorios de parrilla",
+							"url": "/browse/catalogo-aire-libre-parrilla-accesorios-de-parrilla/_/N-13dk2qj?"
+						}
+					]
+				}
+			]
+		}
+	]
+}
