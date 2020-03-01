@@ -5,7 +5,10 @@ const dictionaryUrl = "./data/categoryArray.json";
 var myClassifier = new natural.BayesClassifier();
 
 
-// Train model with saved data in the dictionary.
+/**
+ * Train model with saved data from a dictionary stored in the dictionaryUrl constant.
+ * @returns {natural.BayesClassifier} Naive Bayes classifier object trained with data from a loaded dictionary.
+ */
 function trainModel() {
     var data = loadDictionary();
     if (data == null) {
@@ -33,6 +36,12 @@ function trainModel() {
     });
 }
 
+
+/**
+ * Load data dictionary from a URL, along with corrections from the 'corrections.json' file.
+ * 
+ * @returns {JSON} Data from dictionary that has all key/values associated with categories.
+ */
 function loadDictionary() {
     var data = fs.readFileSync(dictionaryUrl);
     var dataDictionary = JSON.parse(data.toString());
@@ -44,7 +53,38 @@ function loadDictionary() {
         
         // TODO : If the key exists, add to this key.
         correctionData.forEach((keyValuePair) => {
-            dataDictionary.push(keyValuePair);
+
+            // TODO: This is slow. Should search for an implementation of some sort, instead of doing
+            // it by hand.
+
+            var added = false;
+
+            // Search dictionary for the given key
+            dataDictionary.forEach(element => {
+                if(element.key == keyValuePair.key)
+                {
+                    keyValuePair.value.forEach(val => {
+                        element.value.push(val);
+                    });
+                    added = true;
+                    return;
+                }
+            });
+
+            if(!added)
+            {
+                dataDictionary.push(keyValuePair);    
+            }
+
+            // if(dataDictionary[keyValuePair.key])
+            // {
+            //     keyValuePair.value.forEach(element => {
+            //         dataDictionary[keyValuePair.key].push(element);
+            //     });
+            // }else{
+            //     dataDictionary.push(keyValuePair);
+            // }
+            
         });        
     } catch (err) {
         console.error(err);
@@ -67,6 +107,10 @@ exports.initialize = function () {
     });
 }
 
+/**
+ * Get all categories from the data dictionary.
+ * @returns {JSON} Key-Value pair with the following format: {'category' : [ 'item1','item2','item3', ... ]}
+ */
 exports.getCategories = function () {
     var data = loadDictionary();
     var categories = [];
@@ -76,7 +120,11 @@ exports.getCategories = function () {
     return categories;
 }
 
-
+/**
+ * Extract the total value FROM THE LAST LINE.
+ * @param {string} text Multiline text containing total value in the last line.
+ * @returns {float} Total value number from last line.
+ */
 exports.analizeTotalValue = function (text) {
     // Split by line
     var arr = text.split("\n");
@@ -125,7 +173,11 @@ exports.analizeTotalValue = function (text) {
     return total;
 }
 
-/// This function filters unwanted noise in the recognition.
+/**
+ * This function filters unwanted noise in the recognition.
+ * @param {string} unfilteredArray OCR Text feed with the objects to be recognized separated by a new line.
+ * @returns {string} Multiline text with (hopefully) filtered noise out.
+ */
 function filterCategoryArray(unfilteredArray) {
 
     // Split by line
@@ -181,6 +233,11 @@ function filterCategoryArray(unfilteredArray) {
     return filtered;
 }
 
+/**
+ * Classify entries given from a text feed (usually from an OCR) given training data.
+ * @param {string} ocrText Text from an OCR, with objects to be classified separated with new lines.
+ * @returns {JSON} JSON Array containing objects with the following format: {id, name, category}.
+ */
 exports.classifyEntries = function (ocrText) {
 
     var filteredArray = filterCategoryArray(ocrText);
@@ -244,7 +301,9 @@ exports.classifyEntries = function (ocrText) {
     return probabilityVector;
 }
 
-
+/**
+ * Erase training data and train again.
+ */
 exports.forceTrainData = function () {
     try {
         fs.unlinkSync('./data/trainingData.json');
@@ -255,6 +314,11 @@ exports.forceTrainData = function () {
     }
 }
 
+
+/**
+ * Push correction to the 'corrections.json' file in order to be loaded later in training.
+ * @param {JSON} data JSON Array with corrections. Eg: [{label:'myCategory',name:'myProductName'}]    
+ */
 exports.addCorrectedData = function (data) {
     var corrections = [];
     try {

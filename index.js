@@ -8,7 +8,7 @@ const expensesTracker = require('./expensesTracker')
 
 // =============================== INITIALIZATION ===============================
 
-// MULTER
+// MULTER -- File storage
 var storage = multer.diskStorage({
     destination: function (req, file, cb) {
         cb(null, 'uploads')
@@ -19,7 +19,7 @@ var storage = multer.diskStorage({
 })
 const upload = multer({ storage: storage }).single('img')
 
-// EXPRESS
+// EXPRESS -- HTTP Server
 var app = express();
 // Uncomment when pushing to production, after copying the front-end data to the ftp folder.
 app.use(express.static('ftp')); 
